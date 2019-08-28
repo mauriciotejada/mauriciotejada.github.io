@@ -24,5 +24,6 @@ Las brechas de ingresos entre trabajadores formales e informales son sustantivas
 
 En suma, el porcentaje de trabajadores que está activamente en el mercado laboral pero que no cotiza es sustantivo y particularmente sobre-representado en grupos menos educados y mujeres. Adicionalmente, los ingresos que cobran los trabajadores informales son sustancialmente menores que los cobran aquellos trabajando formalmente. Esto no sólo va en desmedro de la acumulación de ahorro de forma obligatorio (no cotizan) pero también elimina cualquier posibilidad de ahorro voluntario para mejorar su estándar de vida en el futuro (en muchos casos los ingresos llegan a ser de subsistencia). ¿Porqué los trabajadores no cotizan o trabajan informalmente? ¿Existen incentivos en la política laboral que impulsan la contratación bajo esta modalidad de trabajo? Estas son preguntas que debe ser respondida de forma razonable como parte de cualquier intento integral de reforma laboral y de pensiones. 
 
-[^1] Note que estas cifras corresponden a aquellas de hombres y mujeres que están participando activamente en el mercado laboral. Considerando no participación, las brechas entre hombre y mujeres están lejos de cerrarse.
-[^2] Los datos de ingresos fueron obtenidos de la encuesta Suplementaria de Ingresos y la última encuesta disponible es la de 2017.
+[^1]: Note que estas cifras corresponden a aquellas de hombres y mujeres que están participando activamente en el mercado laboral. Considerando no participación, las brechas entre hombre y mujeres están lejos de cerrarse.
+
+[^2]: Los datos de ingresos fueron obtenidos de la encuesta Suplementaria de Ingresos y la última encuesta disponible es la de 2017.
