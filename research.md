@@ -5,9 +5,9 @@ title: Research
 
 #### Selected Refereed Publications
 
-- “Labor Market Search, Informality, and On-The-Job Human Capital Accumulation” **Journal of Econometrics**, *forthcoming* (with Matteo Bobba, Luca Flabbi and Santiago Levy). [PDF at IZA Discussion Papers](http://ftp.iza.org/dp12091.pdf)
-- “Dual Labor Markets and Labor Protection in an Estimated Search and Matching Model”. **Labour Economics**. Vol. 46, June 2017, pp. 26-46. [[PDF]](/assets/pdf/Tejada_LE_2017.pdf)
-- “Lifetime Inequality Measures for an Emerging Economy: The Chilean Case”. **Labour Economics**. Vol. 42, October 2016, pp. 1-15. [[PDF]](/assets/pdf/Tejada_LE_2016.pdf)
+- "Labor Market Search, Informality, and On-The-Job Human Capital Accumulation" **Journal of Econometrics**, *forthcoming* (with Matteo Bobba, Luca Flabbi and Santiago Levy). [PDF at IZA Discussion Papers](http://ftp.iza.org/dp12091.pdf)
+- "Dual Labor Markets and Labor Protection in an Estimated Search and Matching Model". **Labour Economics**. Vol. 46, June 2017, pp. 26-46. [[PDF]](/assets/pdf/Tejada_LE_2017.pdf)
+- "Lifetime Inequality Measures for an Emerging Economy: The Chilean Case". **Labour Economics**. Vol. 42, October 2016, pp. 1-15. [[PDF]](/assets/pdf/Tejada_LE_2016.pdf)
 
 ####  Unpublished Completed Papers
 
@@ -20,7 +20,7 @@ title: Research
 - Search, Informality and Asset Accumulation.
 - Welfare, Inequality and Occupational Choice.
 
-#### Book Chapters
+#### Book Chapters
 
 - "Gender Gaps in Wages and Employment: The Role of Employers’ Prejudice". In Unexplored Dimensions of Discrimination. Editors Tito Boeri, Eleonora Patacchini, and Giovanni Peri. Oxford University Press (with Luca Flabbi). [[Web of the Book](https://global.oup.com/academic/product/unexplored-dimensions-of-discrimination-9780198729853?q=Boeri&lang=en&cc=cl)]
 - "Sources of Uncertainty in Chilean Monetary Policy". XIII Volume of the Central Bank of Chile Book Series on Analysis and Economic Policies. Editors Carl Walsh and Klauss Schmidt-Hebbel. (with Felipe Morandé). [[Web of the Book](https://www.bcentral.cl/en/web/central-bank-of-chile/-/volume-13-monetary-policy-under-uncertainty-and-learni-1)]
