@@ -43,7 +43,7 @@ Las bases de datos del libro de Stock y Watson (3ra edición) pueden descargarse
 - Tarea 2
 - Tarea 3
 
-#### Exámenes Pasados
+#### Exámenes Pasados
 
 - Primer Parcial 2018, Primer Parcial 2017, Primer Parcial 2016.
 - Segundo Parcial 2018, Segundo Parcial 2017, Segundo Parcial 2016.
