@@ -7,7 +7,7 @@ categories: oe informalidad
 
 Marcela Perticará y Mauricio Tejada
 
-*Publicado en la Revista Observatorio Económico de la Facultad de Economía y Negocios de la Universiada Alberto Hurtado*
+*Publicado en la Revista Observatorio Económico de la Facultad de Economía y Negocios de la Universidad Alberto Hurtado*
 
 El sistema de pensiones en Chile para funcionar adecuadamente requiere en esencia dos elementos básicos: (1) que las Administradores de Fondos de Pensiones (AFPs) obtengan con sus inversiones una rentabilidad “adecuada” para los fondos acumulados que administran y (2) que los trabajadores generen un flujo continuo de recursos hacia sus cuentas individuales. Respecto del primero, no existe evidencia que los retornos promedio generados hayan sido considerablemente bajos ni existen una varianza sustancial entre los retornos promedio que las distintas AFPs obtienen. Por tanto, introducir mayor competencia al sistema no generaría ganancias sustanciales para los trabajadores en términos de rentabilidades, aunque si lo haría en términos de comisiones pagadas a las AFPs más bajas (y con ello potencialmente mayores flujos de fondos hacia las cuentas de ahorro individuales).
 
