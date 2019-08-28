@@ -18,7 +18,8 @@ Download my full CV in PDF [here](/assets/pdf/mtejadaCV.pdf).
 
 #### Seminar and Conferences
 
-- 2018: 9th Bolivian Conference on Development Economics, Universidad Diego Portales Academic Seminar, LACEA-LAMESAnnual Meeting, 30th EALE Conference,Annual Meeting of the Chilean Society of Economists (SECHI), FEN Universidad de Chile Academic Seminar, The Economics of Informality Conference.
+- 2019: Pontiﬁcia Universidad Católica de Chile Academic Seminar.
+- 2018: 7th Workshop in Economic Development, 2018 MIPP Workshop in Macroeconomics, 9th Bolivian Conference on Development Economics, Universidad Diego Portales Academic Seminar, LACEA-LAMESAnnual Meeting, 30th EALE Conference,Annual Meeting of the Chilean Society of Economists (SECHI), FEN Universidad de Chile Academic Seminar, The Economics of Informality Conference.
 - 2017: 8th Bolivian Conference on Development Economics, FEN Universidad de Chile Academic Seminar, Pontificia Universidad Católica de Chile Academic Seminar, Central Bank of Chile Macroeconomics and Finance Seminar.
 - 2016: LACEA-LAMES Annual Meeting, Annual Meeting of the Chilean Society of Economists (SECHI), 7th Bolivian Conference on Development Economics, Universidad Católica Boliviana Academic Seminar, Universidad Mayor de San Andrés Academic Seminar.
 - 2015: LACEA Annual Meeting,Annual Meeting of the Chilean Society of Economists (SECHI), SMAUG Workshop on Search and Matching.
@@ -29,10 +30,10 @@ Download my full CV in PDF [here](/assets/pdf/mtejadaCV.pdf).
 
 #### Referee Reports
 
-- *Journals:* Journal of Money Credit and Banking, Journal of Macroeconomics, Labour Economics, Labour, Southern Economic Journal, Economic Analysis Review.
+- *Journals:* Economic Journal, Journal of Money Credit and Banking, Journal of Macroeconomics, Labour Economics, Labour, Southern Economic Journal, Economic Analysis Review.
 - *Institutions:* National Commission for Scientific and Technological Research (CONICYT – Chile).
-- *Conferences:* BCDE 2016, 2017 and 2018. LACEA Annual Meeting 2015.
+- *Conferences:* BCDE 2016, 2017, 2018 and 2019. LACEA Annual Meeting 2015 and 2019.
 
 #### Other Professional Activities
 
-- Board Member of the Bolivian Society of Economists 2015/2016 (SEBOL).
+- Board Member of the Bolivian Society of Economists 2015/2016 ([SEBOL](http://www.sebol.org/)).
