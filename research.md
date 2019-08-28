@@ -27,10 +27,10 @@ title: Research
 
 #### Other Refereed Publications
 
-- "Shocks de Oferta Persistentes: ¿Un dolor de Cabeza para los Bancos Centrales? (Persistent Supply Shocks: A Pain in the Neck for Central Banks?)". Economía Chilena, Vol. 12, No. 3, Diciembre 2009. (with Felipe Morandé). [PDF]
-- "Fuentes de Incertidumbre en la Conducción de la Política Monetaria en Chile (Sources of Uncertainty in Chilean Monetary Policy)". Economía Chilena, Vol. 11, No. 3, Diciembre 2008. (with Felipe Morandé). [PDF]
-- "¿Comprar o Arrendar una Vivienda? Una Aplicación para el caso de la Ciudad de La Paz (Housing Tenure Choice: An Application to the City of La Paz)", Revista Desarrollo y Sociedad, No. 60, Noviembre 2007 (with Rafael Vidaurre). [PDF]
-- "No Linealidades en la Regla de Política del Banco Central de Chile: Una Evidencia Empírica (Nonlinearities in the Central Bank of Chile’s Monetary Policy Rule: An Empirical Evidence)", Revista de Análisis Económico, Vol. 21, No. 1, Junio 2006 (with Pablo González). [PDF]
+- "Shocks de Oferta Persistentes: ¿Un dolor de Cabeza para los Bancos Centrales? (Persistent Supply Shocks: A Pain in the Neck for Central Banks?)". Economía Chilena, Vol. 12, No. 3, Diciembre 2009. (with Felipe Morandé). [[PDF](https://www.bcentral.cl/en/web/guest/-/economia-chilena-volumen-12-n-3-diciembre-2009)]
+- "Fuentes de Incertidumbre en la Conducción de la Política Monetaria en Chile (Sources of Uncertainty in Chilean Monetary Policy)". Economía Chilena, Vol. 11, No. 3, Diciembre 2008. (with Felipe Morandé). [[PDF](https://www.bcentral.cl/en/web/guest/-/economia-chilena-volumen-11-n-3-diciembre-20-1)]
+- "¿Comprar o Arrendar una Vivienda? Una Aplicación para el caso de la Ciudad de La Paz (Housing Tenure Choice: An Application to the City of La Paz)", Revista Desarrollo y Sociedad, No. 60, Noviembre 2007 (with Rafael Vidaurre). [[PDF](https://economia.uniandes.edu.co/images/archivos/pdfs/Articulos_Revista_Desarrollo_y_Sociedad/Articulo60_7.pdf)]
+- "No Linealidades en la Regla de Política del Banco Central de Chile: Una Evidencia Empírica (Nonlinearities in the Central Bank of Chile’s Monetary Policy Rule: An Empirical Evidence)", Revista de Análisis Económico, Vol. 21, No. 1, Junio 2006 (with Pablo González). [[PDF](http://www.rae-ear.org/index.php/rae/article/view/55/107)]
 
 #### Working Papers
 
