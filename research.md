@@ -11,8 +11,8 @@ title: Research
 
 ####  Unpublished Completed Papers
 
-- "On the Interaction between Public Sector Employment and Minimum Wage in a Search and Matching Model" (with Lucas Navarro). *R&R European Economic Review*. [[PDF](/assets/pdf/11.2018_Navarro_Tejada_EER.pdf?raw=1)]
-- "Sources of Gender Wage Gaps for Skilled Workers in Latin American Countries" (with Marcela Perticará). *R&R Journal of Economic Inequality*. [[PDF](/assets/pdf/PerticaraTejadaGapsLA2018.pdf?raw=1)]
+- "On the Interaction between Public Sector Employment and Minimum Wage in a Search and Matching Model" (with Lucas Navarro). *R&R European Economic Review*. [[PDF](/assets/pdf/11.2018_Navarro_Tejada_EER.pdf)]
+- "Sources of Gender Wage Gaps for Skilled Workers in Latin American Countries" (with Marcela Perticará). *R&R Journal of Economic Inequality*. [[PDF](/assets/pdf/PerticaraTejadaGapsLA2018.pdf)]
 - "Female Labor Force Participation, Labor Market Dynamic and Growth in Latin American countries" (with Monserrat Bustelo, Luca Flabbi and Claudia Piras). [[PDF at IDB Working Papers](https://publications.iadb.org/en/female-labor-force-participation-labor-market-dynamic-and-growth-lac-0)]
 
 #### Work in Progress
@@ -23,11 +23,11 @@ title: Research
 #### Book Chapters
 
 - "Gender Gaps in Wages and Employment: The Role of Employers’ Prejudice". In Unexplored Dimensions of Discrimination. Editors Tito Boeri, Eleonora Patacchini, and Giovanni Peri. Oxford University Press (with Luca Flabbi). [[Web of the Book](https://global.oup.com/academic/product/unexplored-dimensions-of-discrimination-9780198729853?q=Boeri&lang=en&cc=cl)]
-- "Sources of Uncertainty in Chilean Monetary Policy". XIII Volume of the Central Bank of Chile Book Series on Analysis and Economic Policies. Editors Carl Walsh and Klauss Schmidt-Hebbel. (with Felipe Morandé). [[PDF](https://www.bcentral.cl/en/web/central-bank-of-chile/-/volume-13-monetary-policy-under-uncertainty-and-learni-1)]
+- "Sources of Uncertainty in Chilean Monetary Policy". XIII Volume of the Central Bank of Chile Book Series on Analysis and Economic Policies. Editors Carl Walsh and Klauss Schmidt-Hebbel. (with Felipe Morandé). [[Web of the Book](https://www.bcentral.cl/en/web/central-bank-of-chile/-/volume-13-monetary-policy-under-uncertainty-and-learni-1)]
 
 #### Other Refereed Publications
 
-“Shocks de Oferta Persistentes: ¿Un dolor de Cabeza para los Bancos Centrales? (Persistent Supply Shocks: A Pain in the Neck for Central Banks?)”. Economía Chilena, Vol. 12, No. 3, Diciembre 2009. (with Felipe Morandé). [PDF]
+- "Shocks de Oferta Persistentes: ¿Un dolor de Cabeza para los Bancos Centrales? (Persistent Supply Shocks: A Pain in the Neck for Central Banks?)". Economía Chilena, Vol. 12, No. 3, Diciembre 2009. (with Felipe Morandé). [PDF]
 “Fuentes de Incertidumbre en la Conducción de la Política Monetaria en Chile (Sources of Uncertainty in Chilean Monetary Policy)”. Economía Chilena, Vol. 11, No. 3, Diciembre 2008. (with Felipe Morandé). [PDF]
 “¿Comprar o Arrendar una Vivienda? Una Aplicación para el caso de la Ciudad de La Paz (Housing Tenure Choice: An Application to the City of La Paz)”, Revista Desarrollo y Sociedad, No. 60, Noviembre 2007 (with Rafael Vidaurre). [PDF]
 “No Linealidades en la Regla de Política del Banco Central de Chile: Una Evidencia Empírica (Nonlinearities in the Central Bank of Chile’s Monetary Policy Rule: An Empirical Evidence)”, Revista de Análisis Económico, Vol. 21, No. 1, Junio 2006 (with Pablo González). [PDF]
