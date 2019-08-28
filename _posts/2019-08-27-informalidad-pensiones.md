@@ -28,10 +28,10 @@ En suma, el porcentaje de trabajadores que está activamente en el mercado labor
 
 [^2]: Los datos de ingresos fueron obtenidos de la encuesta Suplementaria de Ingresos y la última encuesta disponible es la de 2017.
 
-![](/informalidad_pensiones_fig1)
+![](/assets/img_posts/informalidad_pensiones_fig1)
 
-![](/informalidad_pensiones_fig2)
+![](/assets/img_posts/informalidad_pensiones_fig2)
 
-![](/informalidad_pensiones_fig3)
+![](/assets/img_posts/informalidad_pensiones_fig3)
 
-![](/informalidad_pensiones_fig4)
+![](/assets/img_posts/informalidad_pensiones_fig4)
