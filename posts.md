@@ -1,4 +1,4 @@
 ---
 layout: bloghome
-title: Blog
+title: Blog (In spanish)
 ---
