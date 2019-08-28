@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Curriculum Vitae
-permalink: /curriculum-vitae/
 ---
 
 Download my full CV in PDF [here](/assets/pdf/mtejadaCV.pdf).
