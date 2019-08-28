@@ -27,3 +27,11 @@ En suma, el porcentaje de trabajadores que está activamente en el mercado labor
 [^1]: Note que estas cifras corresponden a aquellas de hombres y mujeres que están participando activamente en el mercado laboral. Considerando no participación, las brechas entre hombre y mujeres están lejos de cerrarse.
 
 [^2]: Los datos de ingresos fueron obtenidos de la encuesta Suplementaria de Ingresos y la última encuesta disponible es la de 2017.
+
+![](informalidad_pensiones_fig1)
+
+![](informalidad_pensiones_fig2)
+
+![](informalidad_pensiones_fig3)
+
+![](informalidad_pensiones_fig4)
