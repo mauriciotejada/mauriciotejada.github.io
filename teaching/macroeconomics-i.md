@@ -5,21 +5,21 @@ title: Macroeconomía I
 
 <div style="text-align: right"> Segundo Semestre 2019 </div>
 
-#### Noticias
+#### Noticias
 
 - Hoy 26 de agosto tuvimos el mini control No. 2.
 - Hoy 12 de agosto tuvimos el mini control No. 1.
 - La ayudantía está fijada para los días martes a las 13:30 en la sala A41.
 
-#### Descripción 
+#### Descripción
 
 El curso es de nivel introductorio en el campo específico de la Macroeconomía y su objetivo es el desarrollo de los conceptos relacionados al equilibrio macroeconómico, los determinantes de la demanda y oferta agregadas, la disyuntiva inflación-desempleo, el análisis de la economía abierta y el crecimiento económico. A la vez se busca brindarles a los alumnos la capacidad para responder a problemas de políticas macroeconómicas.
 
-#### Sílabo
+#### Sílabo
 
 Puedes descargar el sílabo [aqui](https://www.dropbox.com/s/etssarfsg119s8t/MacroI_IC_2019.pdf?dl=1).
 
-#### Contenidos
+#### Contenidos
 
 - Introducción (Slides).
 - La Renta Nacional: Fuentes y Usos (Slides).
