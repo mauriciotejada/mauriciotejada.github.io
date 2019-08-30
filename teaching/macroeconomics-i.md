@@ -17,7 +17,7 @@ El curso es de nivel introductorio en el campo específico de la Macroeconomía 
 
 #### Sílabo
 
-Puedes descargar el sílabo aqui.
+Puedes descargar el sílabo [aqui](https://www.dropbox.com/s/etssarfsg119s8t/MacroI_IC_2019.pdf?dl=1).
 
 #### Contenidos
 
