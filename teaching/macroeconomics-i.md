@@ -46,4 +46,4 @@ Puedes descargar el sílabo [aqui](https://www.dropbox.com/s/etssarfsg119s8t/Mac
 
 #### Exámenes Pasados
 
-2016, 2017, 2018.
+[2016](https://www.dropbox.com/s/c9n1oozm0q49acr/2016.zip?dl=1), [2017](https://www.dropbox.com/s/dgsmylha96j0xny/2017.zip?dl=1), [2018](https://www.dropbox.com/s/lptp18nq6enrhqu/2018.zip?dl=1).
