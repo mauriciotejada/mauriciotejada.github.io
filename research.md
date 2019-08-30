@@ -34,9 +34,9 @@ title: Research
 
 #### Working Papers
 
-- "Gender Gaps in Education and Labor Market Outcomes in the U.S.: The Impact of Employers’ Prejudice", IDB Working Paper Series No. 357, 2012. (with Luca Flabbi). [PDF]
-- "Modelos de predicción para la inflación de Chile (Inflation forecast models for Chile)". MPRA Paper No. 31586. Cámara Chilena de la Construcción. September 2010. (with Byron Idrovo). [PDF]
-- "Macroeconomic Implication of Persistent Cost Push Shocks: The Case of Chile". Working Paper No 290. Department of Economics. Universidad de Chile. December 2008. (with Felipe Morandé). [PDF]
-- "Price Stickiness in Emerging economies: Empirical Evidence for Four Latin-American Countries", Working Paper No 286. Department of Economics. Universidad de Chile. October 2006. (with Felipe Morandé). [PDF]
+- "Gender Gaps in Education and Labor Market Outcomes in the U.S.: The Impact of Employers’ Prejudice", IDB Working Paper Series No. 357, 2012. (with Luca Flabbi). [[PDF](https://publications.iadb.org/handle/11319/4205)]
+- "Modelos de predicción para la inflación de Chile (Inflation forecast models for Chile)". MPRA Paper No. 31586. Cámara Chilena de la Construcción. September 2010. (with Byron Idrovo). [[PDF](http://mpra.ub.uni-muenchen.de/31586/1/MPRA_paper_31586.pdf)]
+- "Macroeconomic Implication of Persistent Cost Push Shocks: The Case of Chile". Working Paper No 290. Department of Economics. Universidad de Chile. December 2008. (with Felipe Morandé). [[PDF](http://www.econ.uchile.cl/uploads/publicacion/1de450f9-433c-42c6-ae67-2ef14c40a9df.pdf)]
+- "Price Stickiness in Emerging economies: Empirical Evidence for Four Latin-American Countries", Working Paper No 286. Department of Economics. Universidad de Chile. October 2006. (with Felipe Morandé). [[PDF](http://www.econ.uchile.cl/uploads/publicacion/7f32e23f-1e96-4769-b9bb-c7a0df7eda82.pdf)]
 - "Un Modelo Estadístico para la Desagregación Regional del Índice Mensual de Actividad de la Construcción (A Statistical Model for Regional Desegregation of the Monthly Index of Construction Activity)", Documento de Trabajo No. 38, Cámara Chilena de la Construcción. Septiembre 2006 (with Facundo Piguillem).
 - "Índice Mensual de Actividad de la Construcción: Un Estimador en Frecuencias Mixtas (Monthly Index of Construction Activity: A Mixed Frequency Estimator)". Documento de Trabajo No. 34, Cámara Chilena de la Construcción. Enero 2006.
