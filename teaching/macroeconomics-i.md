@@ -21,7 +21,7 @@ Puedes descargar el sílabo [aqui](https://www.dropbox.com/s/etssarfsg119s8t/Mac
 
 #### Contenidos
 
-- Introducción ([Slides](https://www.dropbox.com/s/8aznlhuye4s5sj6/Capitulo%201%20Handout.pdf?dl=1).
+- Introducción ([Slides](https://www.dropbox.com/s/8aznlhuye4s5sj6/Capitulo%201%20Handout.pdf?dl=1)).
 - La Renta Nacional: Fuentes y Usos ([Slides](https://www.dropbox.com/s/i8rj0w1vpp3nlg2/Capitulo%202%20Handout.pdf?dl=1)).
 - Dinero, Precios e Inflación ([Slides](https://www.dropbox.com/s/8qtzhbfimn4nwzs/Capitulo%203%20Handout.pdf?dl=1)).
 - La Economía Abierta: Balanza de Pagos y Tipo de Cambio (Slides).
