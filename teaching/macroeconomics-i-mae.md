@@ -5,7 +5,7 @@ exclude: true
 permalink: /teaching/macroeconomics-i-mae
 ---
 
-Segundo Semestre 2018
+<div style="text-align: right"> Segundo Semestre 2018 </div>
 
 #### Descripción
 
