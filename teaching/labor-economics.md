@@ -35,15 +35,15 @@ Puedes descargar el sílabo aquí.
 
 #### Referencias Generales
 
-Acemoglu D. y D. Autor (2011), Lecture Notes, Part 4.
-Cahuc P. S. Carcillo y A. Zylberberg (2014), Labor Economics. The MIT Press: 2004, Segunda Edición. (Capítulos 1, 2, 5, y 9)
-Eckstein, Z. y G. Van den Berg (2007. Empirical Labor Search: A Survey, Journal of Econometrics, 136. [PDF]
-Mortensen, D., y C. Pissarides. (1999). New Developments in Models of Search in the Labor Market, Ch. 39 in Ashenfelter and Card, Handbook of Labor Economics, volume 3B, Elsevier.
-Mortensen, D., y C. Pissarides. (1999). Job Reallocation, Employment Fluctuations and Unemployment, Ch 18 in Taylor and Woodford, Handbook of Macroeconomics, volume 1B, Elsevier, 1999.
-Pissarides, C. (2000). Equilibrium unemployment theory. MIT Press, Cambridge MA.
-Rogerson, R., R. Shimer, y R. Wright (2005). Search-Theoretic Models of the Labor Market: A Survey. Journal of Economic Literature. [PDF]
-Rogerson R. y R. Shimer (2011). Search in Macroeconomic Models of the Labor Market, Capítulo 7, Handbook of Labor Economics, Vol. 4, pp 619-700.
-Yashiv E. (2007). Labor search and matching in macroeconomics, European Economic Review, 51. [PDF]
+- Acemoglu D. y D. Autor (2011), Lecture Notes, Part 4.
+- Cahuc P. S. Carcillo y A. Zylberberg (2014), Labor Economics. The MIT Press: 2004, Segunda Edición. (Capítulos 1, 2, 5, y 9)
+E- ckstein, Z. y G. Van den Berg (2007. Empirical Labor Search: A Survey, Journal of Econometrics, 136. [PDF]
+- Mortensen, D., y C. Pissarides. (1999). New Developments in Models of Search in the Labor Market, Ch. 39 in Ashenfelter and Card, Handbook of Labor Economics, volume 3B, Elsevier.
+- Mortensen, D., y C. Pissarides. (1999). Job Reallocation, Employment Fluctuations and Unemployment, Ch 18 in Taylor and Woodford, Handbook of Macroeconomics, volume 1B, Elsevier, 1999.
+- Pissarides, C. (2000). Equilibrium unemployment theory. MIT Press, Cambridge MA.
+- Rogerson, R., R. Shimer, y R. Wright (2005). Search-Theoretic Models of the Labor Market: A Survey. Journal of Economic Literature. [PDF]
+- Rogerson R. y R. Shimer (2011). Search in Macroeconomic Models of the Labor Market, Capítulo 7, Handbook of Labor Economics, Vol. 4, pp 619-700.
+- Yashiv E. (2007). Labor search and matching in macroeconomics, European Economic Review, 51. [PDF]
 
 #### Tareas
 
