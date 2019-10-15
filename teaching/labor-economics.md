@@ -33,7 +33,7 @@ Puedes descargar el sílabo aquí.
 	- Modelo RBC con Fricciones de Búsqueda (Códigos Dynare, Merz.1995, Andolfatto.1996)
 5. Estrategias Empíricas usando Modelos de Búsqueda (Slides)
 
-##### Referencias Generales
+#### Referencias Generales
 
 Acemoglu D. y D. Autor (2011), Lecture Notes, Part 4.
 Cahuc P. S. Carcillo y A. Zylberberg (2014), Labor Economics. The MIT Press: 2004, Segunda Edición. (Capítulos 1, 2, 5, y 9)
