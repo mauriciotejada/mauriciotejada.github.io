@@ -24,10 +24,10 @@ Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/waim31mo8rc859i/MA
 2. Programación dinámica y búsqueda óptima ([Slides](https://www.dropbox.com/s/kro0xwypqff8ghi/Handout_3.pdf?raw=1), [McCall.1970](https://www.dropbox.com/s/2f5b8ezhbe8ybkl/McCall%20-%20The%20Quarterly%20Journal%20of%20Economics%20-%201970.pdf?raw=1), [vandenBerg.1990](https://www.dropbox.com/s/spagw67dni7hht5/van%20den%20Berg%20-%20Review%20of%20Economic%20Studies%20-%201990.pdf?raw=1), [Diamond.1971](https://www.dropbox.com/s/idzbyh460xq5m2s/Diamond%20-%20Journal%20of%20Economic%20Theory%20-%201971.pdf?raw=1), [Hornstein.etal.2011](https://www.dropbox.com/s/oi7o5b1s6xamsdc/Hornstein%2C%20Krusell%2C%20Violante%20-%20American%20Economic%20Review%20-%202011.pdf?raw=1))
 3. El Modelo Diamond-Mortensen-Pissarides (DMP) y Extensiones
 	- El Modelo DMP ([Slides](https://www.dropbox.com/s/hqtopafc23np3c7/Handout_4.pdf?raw=1), [Nota sobre la función de Matching](https://www.dropbox.com/s/j9c0dj3bdqrv9rv/Handout_4-1.pdf?raw=1), [PetrongoloPissarides.2001](https://www.dropbox.com/s/1wz37bs0alywqkf/Petrongolo%2C%20Pissarides%20-%20Journal%20of%20Economic%20Literature%20-%202001.pdf?raw=1))
-	- Extensiones (Slides, MortensenPissarides.1994)
-	- Política Laboral (Tejada.2017, Navarro.Tejada.2017, SlidesTejada, Slides TejadaNavarro)
-	- Eficiencia (Slides, Hosios.1990, Moen.1997, Wright.etal.2017)
-4. Ciclos y Desempleo (Slides)
+	- Extensiones ([Slides](https://www.dropbox.com/s/sbyqnokz5tapm7h/Handout_5.pdf?raw=1), [MortensenPissarides.1994](https://www.dropbox.com/s/i7zpdgscb9ruemu/Mortensen%2C%20Pissarides%20-%20Review%20of%20Economic%20Studies%20-%201994.pdf?raw=1))
+	- Política Laboral ([Tejada.2017](https://www.dropbox.com/s/4qe6cke9rg4eht5/Tejada_LE_2017.pdf?raw=1), [Navarro.Tejada.2017](https://www.dropbox.com/s/3f3xlwx2qgwynvx/8.2017_Navarro_Tejada.pdf?raw=1), [SlidesTejada](https://www.dropbox.com/s/42im2voqtlwako6/6.1%20Politica%20Laboral%20-%20Dual%20Labor%20Markets.pdf?raw=1), [Slides TejadaNavarro](https://www.dropbox.com/s/qnm3sk4m2i2m8th/6.2%20Politica%20Laboral%20-%20Empleo%20Publico%20y%20Salario%20Minimo.pdf?raw=1))
+	- Eficiencia ([Slides](https://www.dropbox.com/s/9o8lbkhnmkcibtl/Handout_6.pdf?raw=1), [Hosios.1990](https://www.dropbox.com/s/e8tpdzt81q40dy9/Hosios%20-%20The%20Review%20of%20Economic%20Studies%20-%201990.pdf?raw=1), [Moen.1997](https://www.dropbox.com/s/vhys8zh34e5mtrt/Moen%20-%20Journal%20of%20Political%20Economy%20-%201997.pdf?raw=1), [Wright.etal.2017](https://www.dropbox.com/s/oz06wkxwskc20ix/w23884.pdf?raw=1))
+4. Ciclos y Desempleo ([Slides](https://www.dropbox.com/s/xi7d5oaaas6vpmt/Handout_7.pdf?raw=1))
 	- Hechos estilizados (Shimer.2012, Elsby.etal.2013).
 	- Modelo DMP y Cíclos del Empleo y Desempleo (Códigos Dynare, Shimer.2005, Hall.2005, HagedornManovskii.2008)
 	- Modelo RBC con Fricciones de Búsqueda (Códigos Dynare, Merz.1995, Andolfatto.1996)
