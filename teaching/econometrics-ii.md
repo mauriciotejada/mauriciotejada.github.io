@@ -11,18 +11,18 @@ Este curso es una extensión natural al curso introductorio de econometría. El 
 
 #### Sílabo
 
-Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/cp57sceq788t2j0/Econometria_II_2019.pdf?dl=1).
+Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/cp57sceq788t2j0/Econometria_II_2019.pdf?raw=1).
 
 #### Contenidos
 
-- Introducción ([Slides](https://www.dropbox.com/s/kpb5kikw04c61wb/0.%20Intro%20-%20Handout.pdf?dl=1))
-- Repaso: Modelo Lineal General ([Slides](https://www.dropbox.com/s/fv66svlsjecu96o/1.%20Repaso_MCO%20-%20Handout.pdf?dl=1), [Derivaciones](https://www.dropbox.com/s/dpnb3341ngheg48/1.%20Repaso_MCO%20-%20Derivaciones.pdf?dl=1))
-- Modelos para Datos de Panel ([Slides](https://www.dropbox.com/s/dpnb3341ngheg48/1.%20Repaso_MCO%20-%20Derivaciones.pdf?dl=1))
-- Modelos de Series Temporales (Slides)
-- Otros Métodos de Estimación y sus Aplicaciones (Slides)
-- Máximo Verosimilitud.
-- Métodos Generalizado de Momentos
-- Mínimos Cuadrados No lineales
+1. Introducción.
+2. Repaso: Modelo Lineal General.
+3. Modelos para Datos de Panel.
+4. Modelos de Series Temporales.
+5. Otros Métodos de Estimación y sus Aplicaciones.
+	- Máximo Verosimilitud.
+	- Métodos Generalizado de Momentos
+	- Mínimos Cuadrados No lineales
 
 #### Software
 
@@ -39,7 +39,7 @@ Las bases de datos del libro de Stock y Watson (3ra edición) pueden descargarse
 
 #### Tareas
 
-- Tarea 1
+- Tarea 1: [Encunciado](https://www.dropbox.com/s/aeki8yd90yi0sdt/Tarea%201%20-%202019.pdf?dl=1). [Datos](Datos). Los ejercicios del libro de Wooldridge para esta tarea pueden ser bajados [aquí](https://www.dropbox.com/s/x1vvnk5rxtcgu9z/Wooldridge%20-%20Problemas.zip?dl=1).
 - Tarea 2
 - Tarea 3
 

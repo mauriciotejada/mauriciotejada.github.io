@@ -7,9 +7,10 @@ title: Macroeconomía I
 
 #### Noticias
 
+- La Pauta del segundo parcial está disponible en la sección exámenes.
+- La guía de ejercicios para el segundo parcial debe ser entregada por los dos cursos el día de mañana 8 de octubre durante la prueba.
+- Desde hoy 4 de octubre está disponible la guía de ejercicios 2.
 - Hoy 26 de agosto tuvimos el mini control No. 2.
-- Hoy 12 de agosto tuvimos el mini control No. 1.
-- La ayudantía está fijada para los días martes a las 13:30 en la sala A41.
 
 #### Descripción
 
@@ -21,27 +22,27 @@ Puedes descargar el sílabo [aqui](https://www.dropbox.com/s/etssarfsg119s8t/Mac
 
 #### Contenidos
 
-- Introducción ([Slides](https://www.dropbox.com/s/8aznlhuye4s5sj6/Capitulo%201%20Handout.pdf?dl=1)).
-- La Renta Nacional: Fuentes y Usos ([Slides](https://www.dropbox.com/s/i8rj0w1vpp3nlg2/Capitulo%202%20Handout.pdf?dl=1)).
-- Dinero, Precios e Inflación ([Slides](https://www.dropbox.com/s/8qtzhbfimn4nwzs/Capitulo%203%20Handout.pdf?dl=1)).
-- La Economía Abierta: Balanza de Pagos y Tipo de Cambio (Slides).
-- El Desempleo (Slides).
-- Introducción a las Fluctuaciones Económicas: La Oferta y Demanda Agregadas (Slides).
-- La demanda agregada a Corto Plazo: el Modelo IS-LM (Slides).
-- La Demanda Agregada en una Economía Abierta: El Modelo Mundell-Fleming (Slides).
-- La Oferta Agregada y la Disyuntiva a Corto Plazo entre Inflación  y Desempleo (Slides).
-- Introducción al Crecimiento Económico (Slides).
+- Introducción.
+- La Renta Nacional: Fuentes y Usos.
+- Dinero, Precios e Inflación.
+- La Economía Abierta: Balanza de Pagos y Tipo de Cambio.
+- El Desempleo.
+- Introducción a las Fluctuaciones Económicas: La Oferta y Demanda Agregadas.
+- La demanda agregada a Corto Plazo: el Modelo IS-LM.
+- La Demanda Agregada en una Economía Abierta: El Modelo Mundell-Fleming.
+- La Oferta Agregada y la Disyuntiva a Corto Plazo entre Inflación  y Desempleo.
+- Introducción al Crecimiento Económico.
 
 #### Guías de Ejercicios
 
 - [Guía de Ejercicios 1](https://www.dropbox.com/s/hdkce2ygxe1ljle/Guia%20Ejercicios%201.pdf?dl=1)
-- Guía de Ejercicios 2
+- [Guía de Ejercicios 2](https://www.dropbox.com/s/whgqp0jgas0oxu3/Guia%20Ejercicios%202.pdf?dl=1)
 - Guía de Ejercicios 3
 
 #### Exámenes
 
 - Primer Examen Parcial (2 de Septiembre 2019)
-- Segundo Examen Parcial (8 de Octubre 2019)
+- Segundo Examen Parcial (8 de Octubre 2019) [Pauta](https://www.dropbox.com/s/6hnrncxydn0ml1y/Segundo_Parcial_2019_pauta.pdf?raw=1)
 - Tercer Examen Parcial (12 de Noviembre 2019)
 
 #### Exámenes Pasados
