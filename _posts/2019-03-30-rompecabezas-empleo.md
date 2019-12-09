@@ -32,3 +32,11 @@ En suma, el disímil desempeño de CASEN y ENE en la estimación del nivel de co
 [^4]: Ver presentación a Panel de Expertos el 21 de Diciembre 2018 https://www.ine.cl/docs/default-source/laborales/ene/comit%C3%A9-de-expertos/cuarta-reuni%C3%B3n-del-grupo-de-expertos-de-estad%C3%ADsticas-laborales-(21-de-diciembre-de-2018).pdf?sfvrsn=4
 
 [^5]: Muñoz Iglesias, Patricia (2015). “Impacto del uso de informantes proxy en la Encuesta Nacional del Empleo y la Encuesta de Caracterización Socioeconómica Nacional 2015”, Memoria para optar al título de Socióloga, Facultad de Ciencias Sociales, Escuela de Sociología, Universidad de Chile.
+
+![](/assets/img_posts/rompecabezas_empleo_fig1.png)
+
+![](/assets/img_posts/rompecabezas_empleo_fig2.png)
+
+![](/assets/img_posts/rompecabezas_empleo_fig3.png)
+
+![](/assets/img_posts/rompecabezas_empleo_fig4.png)
