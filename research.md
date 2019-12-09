@@ -11,7 +11,7 @@ title: Research
 
 ####  Unpublished Completed Papers
 
-- "On the Interaction between Public Sector Employment and Minimum Wage in a Search and Matching Model" (with Lucas Navarro). *R&R European Economic Review*. [[PDF](/assets/pdf/11.2018_Navarro_Tejada_EER.pdf)]
+- "Does Public Sector Employment Buﬀer the Minimum Wage Eﬀects?" (with Lucas Navarro). *R&R European Economic Review*. [[PDF](/assets/pdf/Navarro_Tejada_Public_Sector_2019.pdf)]
 - "Sources of Gender Wage Gaps for Skilled Workers in Latin American Countries" (with Marcela Perticará). *R&R Journal of Economic Inequality*. [[PDF](/assets/pdf/PerticaraTejadaGapsLA2018.pdf)]
 - "Female Labor Force Participation, Labor Market Dynamic and Growth in Latin American countries" (with Monserrat Bustelo, Luca Flabbi and Claudia Piras). [[PDF at IDB Working Papers](https://publications.iadb.org/en/female-labor-force-participation-labor-market-dynamic-and-growth-lac-0)]
 
