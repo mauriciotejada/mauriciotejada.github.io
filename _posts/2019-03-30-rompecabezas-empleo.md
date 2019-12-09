@@ -23,7 +23,7 @@ Es importante, entonces, estudiar con detenimiento qué características del mé
 
 En suma, el disímil desempeño de CASEN y ENE en la estimación del nivel de cotizantes y su evolución desestima la hipótesis de que el desacople de las cifras de ENE y datos administrativos sea sólo producto de la desactualización del marco muestral. Por tanto, en la discusión de qué se debe revisar para mejorar los datos de empleo de la ENE, es preciso incluir otros aspectos además del marco muestral desactualizado que podrían estar dando lugar a estas diferencias.
 
-[^1]: Datos extraídos de la página [](https://www.spensiones.cl/apps/centroEstadisticas/paginaCuadrosCCEE.php?menu=sci&menuN1=cotycot&menuN2=tipcotiz el 14/3/2019)
+[^1]: Datos extraídos de la página [https://www.spensiones.cl/apps/centroEstadisticas/paginaCuadrosCCEE.php?menu=sci&menuN1=cotycot&menuN2=tipcotiz el 14/3/2019]
 
 [^2]: En un artículo periodístico se daba cuenta de un aumento mayor en el número de cotizantes según datos administrativos para igual período (https://www.emol.com/noticias/Economia/2018/12/31/932692/El-contraste-de-las-cifras-sobre-empleo-que-entrega-el-INE-y-los-datos-administrativos-que-destaca-el-Gobierno.html).
 
