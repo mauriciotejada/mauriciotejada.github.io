@@ -23,13 +23,13 @@ Es importante, entonces, estudiar con detenimiento qué características del mé
 
 En suma, el disímil desempeño de CASEN y ENE en la estimación del nivel de cotizantes y su evolución desestima la hipótesis de que el desacople de las cifras de ENE y datos administrativos sea sólo producto de la desactualización del marco muestral. Por tanto, en la discusión de qué se debe revisar para mejorar los datos de empleo de la ENE, es preciso incluir otros aspectos además del marco muestral desactualizado que podrían estar dando lugar a estas diferencias.
 
-[^1]: Datos extraídos de la página [https://www.spensiones.cl/apps/centroEstadisticas/paginaCuadrosCCEE.php?menu=sci&menuN1=cotycot&menuN2=tipcotiz el 14/3/2019]
+[^1]: Datos extraídos de la [Superintendencia de Pensiones](https://www.spensiones.cl/apps/centroEstadisticas/paginaCuadrosCCEE.php?menu=sci&menuN1=cotycot&menuN2=tipcotiz el 14/3/2019)
 
-[^2]: En un artículo periodístico se daba cuenta de un aumento mayor en el número de cotizantes según datos administrativos para igual período (https://www.emol.com/noticias/Economia/2018/12/31/932692/El-contraste-de-las-cifras-sobre-empleo-que-entrega-el-INE-y-los-datos-administrativos-que-destaca-el-Gobierno.html).
+[^2]: En un artículo periodístico se daba cuenta de un aumento mayor en el número de cotizantes según datos administrativos para igual período ([link](https://www.emol.com/noticias/Economia/2018/12/31/932692/El-contraste-de-las-cifras-sobre-empleo-que-entrega-el-INE-y-los-datos-administrativos-que-destaca-el-Gobierno.html)).
 
-[^3]: Ver https://www.ine.cl/docs/default-source/laborales/ene/antecedentes-metodologicos/actualizacion_marco_muestral_2016_ene.pdf?sfvrsn=10
+[^3]: Ver antecedentes metodológicos en el siguiente [link](https://www.ine.cl/docs/default-source/laborales/ene/antecedentes-metodologicos/actualizacion_marco_muestral_2016_ene.pdf?sfvrsn=10)
 
-[^4]: Ver presentación a Panel de Expertos el 21 de Diciembre 2018 https://www.ine.cl/docs/default-source/laborales/ene/comit%C3%A9-de-expertos/cuarta-reuni%C3%B3n-del-grupo-de-expertos-de-estad%C3%ADsticas-laborales-(21-de-diciembre-de-2018).pdf?sfvrsn=4
+[^4]: Ver presentación a Panel de Expertos el 21 de Diciembre 2018 ([link](https://www.ine.cl/docs/default-source/laborales/ene/comit%C3%A9-de-expertos/cuarta-reuni%C3%B3n-del-grupo-de-expertos-de-estad%C3%ADsticas-laborales-(21-de-diciembre-de-2018).pdf?sfvrsn=4)).
 
 [^5]: Muñoz Iglesias, Patricia (2015). “Impacto del uso de informantes proxy en la Encuesta Nacional del Empleo y la Encuesta de Caracterización Socioeconómica Nacional 2015”, Memoria para optar al título de Socióloga, Facultad de Ciencias Sociales, Escuela de Sociología, Universidad de Chile.
 
