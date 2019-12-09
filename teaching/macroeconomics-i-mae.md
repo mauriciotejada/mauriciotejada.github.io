@@ -13,13 +13,16 @@ Este curso presenta una introducción al modelamiento macroeconómico, enfocánd
 
 #### Sílabo
 
-Puedes descargar el sílabo aquí.
+Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/q2in9k1iynqmbz5/Silabo_Macro_I_2019.pdf?raw=1).
 
 #### Contenidos
 
-1. La Macroeconomía Moderna (Slides).
-2. El Modelo Neoclásico de Crecimiento (Slides).
-3. Modelos de Crecimiento Endógeno de 1era y 2da generación (Slides).
+1. La Macroeconomía Moderna ([Slides](https://www.dropbox.com/s/3i3xujw7m542bp1/1.%20La%20Macro%20Moderna.pdf?raw=1)).
+2. El Modelo Neoclásico de Crecimiento ([Slides](https://www.dropbox.com/s/ppc7lcmadly7wo5/2.%20El%20Modelo%20Neoclasico%20de%20Crecimiento.pdf?raw=1)).
+	- [Propiedades de la Función de Producción](https://www.dropbox.com/s/8zmo245cxnw77ej/Notas%20de%20Macro%201.pdf?raw=1).
+	- [Propiedades de la Función de Utilidad](https://www.dropbox.com/s/ckwqgvc2xf297f1/Notas%20de%20Macro%202.pdf?raw=1).
+	- [Métodos de Perturbación](https://www.dropbox.com/s/i99d4le03tuqx26/Notas%20de%20Macro%203.pdf?raw=1).
+3. Modelos de Crecimiento Endógeno de 1era y 2da generación ([Slides](https://www.dropbox.com/s/wm1dzztidy5nw9h/3.%20Modelos%20de%20Crecimiento%20End%C3%B3geno.pdf?raw=1)).
 4. El Modelo Estocástico de Crecimiento (Slides, Reglas para loglinealizar)
 5. Modelo de Crecimiento con Agentes Heterogéneos (Slides)
 
@@ -29,17 +32,15 @@ Las tareas y los módulos prácticos requieren del uso de un software de anális
 
 #### Ejemplos
 
-*Nota: Los códigos en Julia y Python son compatibles con las distribuciones JuliaPro 1.0.1 y Anaconda 5.3, respectivamente.*
+- Modelo neoclásico de crecimiento y método de perturbación basado en la descompsición de Shur.
+- Modelo neoclásico de crecimiento y método de perturbación basado en la aproximación de primer orden de las funciones de política.
+- Modelo neoclásico de crecimiento y método iteración de la función valor.
+- Modelo de ciclos reales y el método de coeficientes indeterminados de Uhlig (1999). El código con los procedimientos completos de Uhlig puede ser descargado del siguiente [link](https://www.wiwi.hu-berlin.de/de/professuren/vwl/wipo/research/MATLAB_Toolkit).
+- Modelo de agentes heterogéneos de Ayagari (1994) 
 
-- Modelo neoclásico de crecimiento y método de perturbación basado en la descompsición de Shur (Julia, Matlab).
-- Modelo neoclásico de crecimiento y método de perturbación basado en la aproximación de primer orden de las funciones de política (Julia, Python)
-- Modelo neoclásico de crecimiento y método iteración de la función valor (Matlab y m-file, Julia, Python)
-- Modelo de ciclos reales y el método de coeficientes indeterminados de Uhlig (1999) (Matlab, m-file). El código con los procedimientos completos de Uhlig puede ser descargado del siguiente link.
-- Modelo de agentes heterogéneos de Ayagari (1994) (Matlab, m-file).
-Todos los códigos están disponibles en github.
 
 #### Tareas
 
-- Tarea 1: La fecha entrega de la tarea es el viernes 5 de octubre. Pueden bajar el enunaciado aqui. Para la tarea usarán una base de datos macro de la economía chilena, la misma que pueden bajar aqui.
-- Tarea 2: La fecha entrega de la tarea es el miércoles 7 de noviembre. Pueden bajar el enunaciado aquí.
-- Tarea 3: Pueden bajar el enunciado aquí. No es requerimineto entregar esta tarea.
+- Tarea 1: [Enunciado](https://www.dropbox.com/s/f2sszney4wxsiin/Tarea%201.pdf?dl=1). La fecha entrega de la tarea es el viernes 11 de octubre. 
+- Tarea 2: Enunciado.
+- Tarea 3: Enunciado.
