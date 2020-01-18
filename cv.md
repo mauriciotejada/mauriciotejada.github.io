@@ -17,7 +17,7 @@ Download my full CV in PDF [here](/assets/pdf/mtejadaCV.pdf).
 
 #### Seminar and Conferences
 
-- 2019: Pontiﬁcia Universidad Católica de Chile Academic Seminar.
+- 2019: Pontiﬁcia Universidad Católica de Chile Academic Seminar. University of Sao Paulo (USP) Academic Seminar.
 - 2018: 7th Workshop in Economic Development, 2018 MIPP Workshop in Macroeconomics, 9th Bolivian Conference on Development Economics, Universidad Diego Portales Academic Seminar, LACEA-LAMESAnnual Meeting, 30th EALE Conference,Annual Meeting of the Chilean Society of Economists (SECHI), FEN Universidad de Chile Academic Seminar, The Economics of Informality Conference.
 - 2017: 8th Bolivian Conference on Development Economics, FEN Universidad de Chile Academic Seminar, Pontificia Universidad Católica de Chile Academic Seminar, Central Bank of Chile Macroeconomics and Finance Seminar.
 - 2016: LACEA-LAMES Annual Meeting, Annual Meeting of the Chilean Society of Economists (SECHI), 7th Bolivian Conference on Development Economics, Universidad Católica Boliviana Academic Seminar, Universidad Mayor de San Andrés Academic Seminar.
