@@ -11,6 +11,6 @@ title: Teaching
 #### Graduate Courses at ILADES – Universidad Alberto Hurtado
 
 - [Macroeconomics I (In Spanish)](/teaching/macroeconomics-i-mae)
-- [Introduction to Programming in Matlab (In Spanish)](/programacionmatlab/)
+- [Introduction to Programming in Matlab (In Spanish)](https://mauriciotejada.com/programacionmatlab/)
 - [Introduction to Programming in Julia (In Spanish)](/teaching/programming-julia-mae)
 - [Labor Economics (In Spanish)](/teaching/labor-economics)
