@@ -12,5 +12,5 @@ title: Teaching
 
 - [Macroeconomics I (In Spanish)](/teaching/macroeconomics-i-mae)
 - [Introduction to Programming in Matlab (In Spanish)](/programacionmatlab)
-- [Introduction to Programming in Julia (In Spanish)](/programamionjulia)
+- [Introduction to Programming in Julia (In Spanish)](/programacionjulia)
 - [Labor Economics (In Spanish)](/teaching/labor-economics)
