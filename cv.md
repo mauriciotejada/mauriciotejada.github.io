@@ -35,4 +35,4 @@ Download my full CV in PDF [here](/assets/pdf/mtejadaCV.pdf).
 
 #### Other Professional Activities
 
-- Board Member of the Bolivian Society of Economists 2015/2016 ([SEBOL](http://www.sebol.org/)).
+- Board Member of the Bolivian Society of Economists 2015/2016 and 2020/2021 ([SEBOL](http://www.sebol.org/)).
