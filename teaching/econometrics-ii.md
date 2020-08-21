@@ -7,11 +7,11 @@ title: Econometría II
 
 #### Descripción
 
-Este curso es una extensión natural al curso introductorio de econometría. El enfoque girará en torno a modelos con datos de panel y modelos de series de tiempo. Adicionalmente, se revisarán métodos de estimación alternativos (y no lineales). Un énfasis especial se pondrá en el uso de estos modelos y estimadores para resolver problemas específicos. Al final del curso se espera que el alumno conozca los rudimentos de los métodos de estimación bajo distintos tipos de datos y sepa identificar las situaciones en las que éstos deben ser aplicados.
+Este curso es una extensión natural al curso introductorio de econometría. El enfoque girará en torno a modelos con datos de panel y modelos de series de tiempo. Adicionalmente, si el tiempo lo permite, se revisarán métodos de estimación cuando la variable dependiente es limitada. Un énfasis especial se pondrá en el uso de estos modelos y estimadores para resolver problemas específicos. Al final del curso se espera que el alumno conozca los rudimentos de los métodos de estimación bajo distintos tipos de datos y sepa identificar las situaciones en las que éstos deben ser aplicados.
 
 #### Sílabo
 
-Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/cp57sceq788t2j0/Econometria_II_2019.pdf?raw=1).
+Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/daex8u0zrticd1v/Econometria_II_2019.pdf?raw=1).
 
 #### Contenidos
 
@@ -19,18 +19,22 @@ Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/cp57sceq788t2j0/Ec
 2. Repaso: Modelo Lineal General.
 3. Modelos para Datos de Panel.
 4. Modelos de Series Temporales.
-5. Otros Métodos de Estimación y sus Aplicaciones.
-	- Máximo Verosimilitud.
-	- Métodos Generalizado de Momentos
-	- Mínimos Cuadrados No lineales
+5. Modelos con Variable Dependiente Limitada  
 
 #### Software
 
-Las tareas y los módulos prácticos requieren del uso de un software econométrico como Stata, Eviews, Gretl, etc. El alumno es libre de elegir el de su preferencia. Stata es el estándar de la industria hoy en día, no obstante es bastante costoso. Mi sugerencia, en caso de no poder contar con Stata, es usar Gretl ya que es gratuito y de libre acceso; existe una vasta documentación en inglés y en español; es multiplataforma; y cubre una amplia gama de estimadores. La página web para su descarga es:
+Las tareas y los módulos prácticos requieren del uso del paquete R. Las páginas web para la descarga de R y RStudio:
 
-[http://gretl.sourceforge.net](http://gretl.sourceforge.net/)
+[https://www.r-project.org/](https://www.r-project.org/)
 
-Kenneth L. Simons tiene un extenso compedio de comandos en stata (versiones 13 y 14). ([ver PDF en su página web](http://homepages.rpi.edu/~simonk/pdf/UsefulStataCommands.pdf))
+[https://rstudio.com/](https://rstudio.com/)
+
+Referencias útiles:
+
+- Introduction to Econometrics with R de Christoph Hanck, Martin Arnold, Alexander Gerber y Martin Schmelzer (replica las aplicaciones empíricas del libro de texto de Stock y Watson): [Página Web del Libro](https://www.econometrics-with-r.org/)
+- Using R for Introductory Econometrics de Florian Heiss (replica las aplicaciones empíricas del libro de texto de Wooldridge): [Página Web del Libro](http://www.urfie.net/)    
+- Principles of Econometrics with R de Constantin Colonescu (tiene una mezcla de aplicaciones): [Página Web del Libro](https://bookdown.org/ccolonescu/RPoE4/) 
+
 
 #### Bases de Datos
 
@@ -39,7 +43,7 @@ Las bases de datos del libro de Stock y Watson (3ra edición) pueden descargarse
 
 #### Tareas
 
-- Tarea 1: [Encunciado](https://www.dropbox.com/s/aeki8yd90yi0sdt/Tarea%201%20-%202019.pdf?dl=1). [Datos](Datos). Los ejercicios del libro de Wooldridge para esta tarea pueden ser bajados [aquí](https://www.dropbox.com/s/x1vvnk5rxtcgu9z/Wooldridge%20-%20Problemas.zip?dl=1).
+- Tarea 1
 - Tarea 2
 - Tarea 3
 
