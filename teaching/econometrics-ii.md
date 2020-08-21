@@ -3,7 +3,7 @@ layout: page
 title: Econometría II
 ---
 
-<div style="text-align: right"> Segundo Semestre 2019 </div>
+<div style="text-align: right"> Segundo Semestre 2020 </div>
 
 #### Descripción
 
