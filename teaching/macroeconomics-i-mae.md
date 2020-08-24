@@ -27,7 +27,7 @@ Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/8fn82c3n1tovhqg/Si
 
 #### Software
 
-Las tareas y los módulos prácticos requieren del uso de un software de análisis numérico. En el mercado hay varios: Matlab©, Octave, Julia, Python (con Numpy y Scipy), Scilab, R, etc. El alumno es libre de elegir el de su preferencia. Sin embargo, se sugiere Matlab ya que si bien no es gratuito y de libre acceso (como todos los demás), es el estándar en macroeconomía actualmente y por tanto existe una vasta colección de códigos en la web para ser usados como ejemplo. Octave representa la alternativa gratuita a Matlab ya que su lenguaje es muy similar al de este último.
+Las tareas y los módulos prácticos requieren del uso de un software de análisis numérico. En el mercado hay varios: Matlab©, Octave, Julia, Python (con Numpy y Scipy), Scilab, R, etc. El alumno es libre de elegir el de su preferencia. Sin embargo, se sugiere Julia para tomar ventaja de lo aprendido en el curso de métodos cuantitativos.
 
 #### Tareas
 
