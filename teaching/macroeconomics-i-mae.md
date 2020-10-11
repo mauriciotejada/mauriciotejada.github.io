@@ -22,6 +22,7 @@ Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/8fn82c3n1tovhqg/Si
 	- [Propiedades de la Función de Producción](https://www.dropbox.com/s/diq44hlyt16u7tz/1_Propiedades_Funcion_Produccion.pdf?raw=1).
 	- [Propiedades de la Función de Utilidad](https://www.dropbox.com/s/wyxm2t6ifp199sv/2_Propiedades_Funcion_Utilidad.pdf?raw=1).
 3. Modelos de Crecimiento Endógeno de 1era y 2da generación ([Slides](https://www.dropbox.com/s/pz4z2icwm6l2zb7/c3_Modelos_de_Crecimiento_Endogeno.pdf?raw=1)).
+	- [Estimabilidad en el Modelo AK](https://www.dropbox.com/s/n6o2tfucf39g4ss/3_Estabilidad_Modelo_AK.pdf?raw=1).
 4. El Modelo Estocástico de Crecimiento (Slides)
 5. Modelo de Crecimiento con Agentes Heterogéneos (Slides)
 
