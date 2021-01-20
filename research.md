@@ -12,7 +12,7 @@ title: Research
 ####  Unpublished Completed Papers
 
 - "Does Public Sector Employment Buffer the Minimum Wage Effects?" (with Lucas Navarro). *R&R Review of Economic Dynamics*. [[PDF](/assets/pdf/Navarro_Tejada_Public_Sector_2019.pdf)]
-- "Sources of Gender Wage Gaps for Skilled Workers in Latin American Countries" (with Marcela Perticará). *R&R Journal of Economic Inequality*. [[PDF](/assets/pdf/Perticara_Tejada_GGLA_2019.pdf)] [[Web Appendix](/assets/pdf/Perticara_Tejada_GGLA_2019_appendix.pdf)]
+- "Sources of Gender Wage Gaps for Skilled Workers in Latin American Countries" (with Marcela Perticará). *R&R Journal of Economic Inequality*. [[PDF](/assets/pdf/Perticara_Tejada_GGLA_2021.pdf)] [[Web Appendix](/assets/pdf/Perticara_Tejada_GGLA_2021_appendix.pdf)]
 - "Female Labor Force Participation, Labor Market Dynamic and Growth in Latin American countries" (with Monserrat Bustelo, Luca Flabbi and Claudia Piras). *R&R Annals of Economics and Statistics*. [[PDF at IDB Working Papers](https://publications.iadb.org/en/female-labor-force-participation-labor-market-dynamic-and-growth-lac-0)]
 
 #### Work in Progress
