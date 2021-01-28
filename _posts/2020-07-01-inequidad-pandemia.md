@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sobre vulnerabilidad y teletrabajo durante la pandemia"
+title:  "Mercado Laboral, Inequidades y Pandemia"
 date:   2020-07-01 14:44:37 -0400
 categories: oe inequidad pandemia
 ---
