@@ -30,7 +30,7 @@ Download my full CV in PDF [here](/assets/pdf/mtejadaCV.pdf).
 
 #### Referee Reports
 
-- *Journals:* Economic Journal, Journal of Money Credit and Banking, Journal of Macroeconomics, Labour Economics, Labour, Southern Economic Journal, Economic Analysis Review.
+- *Journals:* European Economic Review, Journal of Economic Dynamics and Control, Economic Journal, Journal of Money Credit and Banking, Journal of Macroeconomics, Labour Economics, Labour, Southern Economic Journal, Economic Analysis Review.
 - *Institutions:* National Commission for Scientific and Technological Research (CONICYT – Chile).
 - *Conferences:* BCDE 2016, 2017, 2018 and 2019. LACEA Annual Meeting 2015 and 2019.
 
