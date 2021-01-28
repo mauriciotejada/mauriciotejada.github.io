@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "El Rompecabezas de las Cifras de Empleo"
+title:  "El rompecabezas de las cifras de empleo"
 date:   2019-03-30 14:44:37 -0400
 categories: oe empleo
 ---

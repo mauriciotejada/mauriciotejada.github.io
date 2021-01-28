@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mercado Laboral, Inequidades y Pandemia"
+title:  "Mercado laboral, inequidades y pandemia"
 date:   2020-07-01 14:44:37 -0400
 categories: oe inequidad pandemia
 ---

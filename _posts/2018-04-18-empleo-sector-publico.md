@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hacia una Gestión Eficiente en el Sector Público"
+title:  "Hacia una gestión eficiente en el sector público"
 date:   2018-04-18 14:44:37 -0400
 categories: oe sector publico
 ---

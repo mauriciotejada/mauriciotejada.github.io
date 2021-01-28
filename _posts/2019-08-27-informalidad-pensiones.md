@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trabajo Informal y el Sistema de Pensiones en Chile"
+title:  "Trabajo informal y el sistema de pensiones en Chile"
 date:   2019-07-01 14:44:37 -0400
 categories: oe informalidad
 ---
