@@ -11,10 +11,10 @@ Download my full CV in PDF [here](/assets/pdf/mtejadaCV.pdf).
 - M.A. in Economics: ILADES/Georgetown University. 2005.
 - B.S. in Economics: Universidad Católica Boliviana. 2002.
 
-#### Current Position and Affiliations
+#### Current Positions and Affiliations
 
 - 2013 – Present. Assistant Professor. Department of Economics. Universidad Alberto Hurtado. Santiago, Chile.
-- 2020 - Present. Director of the Master Program in Economics (MAE) Department of Economics. Universidad Alberto Hurtado. Santiago, Chile. 
+- 2021 - Present. Director of the Master Program in Economics (MAE). Department of Economics. Universidad Alberto Hurtado. Santiago, Chile. 
 #### Seminar and Conferences
 
 - 2019: Pontiﬁcia Universidad Católica de Chile Academic Seminar. University of Sao Paulo (USP) Academic Seminar.
