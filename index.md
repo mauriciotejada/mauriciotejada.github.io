@@ -7,7 +7,7 @@ layout: home
 
 ![Mauricio Tejada](/assets/img/photo.jpg){:class="img-responsive"}
 
-I studied Economics at the Catholic University of Bolivia and received my Ph.D. from Georgetown University. My research interests are in the areas of Labor Economics, Structural Econometrics, and Macroeconomics with emphasis on the computational aspects. Since 2013 I am working as an Assistant Professor in the Department of Economics (ILADES) at Universidad Alberto Hurtado. In the past, I worked as an Instructor in the areas of macroeconomics and econometrics at Georgetown University, the University of Chile, and the Private University of Bolivia.
+I studied Economics at the Catholic University of Bolivia and received my Ph.D. from Georgetown University. My research interests are in the areas of Labor Economics, Structural Econometrics, and Macroeconomics with emphasis on the computational aspects. Since 2013 I am an Assistant Professor and Directos of the  Master Program in Economics (MAE) in the Department of Economics (ILADES) at Universidad Alberto Hurtado. In the past, I worked as an Instructor in the areas of macroeconomics and econometrics at Georgetown University, the University of Chile, and the Private University of Bolivia.
 
 ----
 
