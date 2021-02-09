@@ -5,13 +5,13 @@ title: Research
 
 #### Selected Refereed Publications
 
+- "Does Public Sector Employment Buffer the Minimum Wage Effects?" (with Lucas Navarro). **Review of Economic Dynamics**, Forthcoming. [[PDF](/assets/pdf/Navarro_Tejada_Public_Sector_2021.pdf)] [[Web Appendix](/assets/pdf/Navarro_Tejada_Public_Sector_2021_Appendix.pdf)]
 - "Labor Market Search, Informality, and On-The-Job Human Capital Accumulation" **Journal of Econometrics**, In Press (with Matteo Bobba, Luca Flabbi and Santiago Levy). [[PDF](/assets/pdf/Bobba_Flabbi_Levy_Tejada_JE_2020.pdf)] [[Web Appendix](/assets/pdf/Bobba_Flabbi_Levy_Tejada_WebAppendix.pdf)]
 - "Dual Labor Markets and Labor Protection in an Estimated Search and Matching Model". **Labour Economics**. Vol. 46, June 2017, pp. 26-46. [[PDF]](/assets/pdf/Tejada_LE_2017.pdf)
 - "Lifetime Inequality Measures for an Emerging Economy: The Chilean Case". **Labour Economics**. Vol. 42, October 2016, pp. 1-15. [[PDF]](/assets/pdf/Tejada_LE_2016.pdf)
 
 ####  Unpublished Completed Papers
 
-- "Does Public Sector Employment Buffer the Minimum Wage Effects?" (with Lucas Navarro). *R&R Review of Economic Dynamics*. [[PDF](/assets/pdf/Navarro_Tejada_Public_Sector_2019.pdf)]
 - "Sources of Gender Wage Gaps for Skilled Workers in Latin American Countries" (with Marcela Perticará). *R&R Journal of Economic Inequality*. [[PDF](/assets/pdf/Perticara_Tejada_GGLA_2021.pdf)] [[Web Appendix](/assets/pdf/Perticara_Tejada_GGLA_2021_appendix.pdf)]
 - "Female Labor Force Participation, Labor Market Dynamic and Growth in Latin American countries" (with Monserrat Bustelo, Luca Flabbi and Claudia Piras). *R&R Annals of Economics and Statistics*. [[PDF at IDB Working Papers](https://publications.iadb.org/en/female-labor-force-participation-labor-market-dynamic-and-growth-lac-0)]
 
