@@ -13,7 +13,7 @@ title: Research
 
 ####  Unpublished Completed Papers
 
-- "Female Labor Force Participation, Labor Market Dynamic and Growth in Latin American countries" (with Monserrat Bustelo, Luca Flabbi and Claudia Piras). *R&R Annals of Economics and Statistics*. [[PDF at IDB Working Papers](https://publications.iadb.org/en/female-labor-force-participation-labor-market-dynamic-and-growth-lac-0)]
+- "Gender Gaps in Latin American Labor Markets: Implications from an Estimated Search Model" (with Monserrat Bustelo, Luca Flabbi and Claudia Piras). *R&R Annals of Economics and Statistics*. [[PDF](/assets/pdf/TPFBpaper2021.pdf)] [[Web Appendix](/assets/pdf/TPFBpaper2021_appendix.pdf)]
 
 #### Work in Progress
 
