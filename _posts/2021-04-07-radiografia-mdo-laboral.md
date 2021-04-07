@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Algunas reflexiones respecto de la recuperación del mercado laboral en la post-pandemia"
+title:  "Mercado Laboral en Pandemia: Una Radiografía del año 2020"
 date:   2021-04-07 10:44:37 -0400
 categories: oe radiografía
 ---
@@ -19,4 +19,4 @@ La pandemia ha exacerbado viejas inequidades. Arriba ya comentamos diferencias p
 
 ¿Cómo viene el año 2021? El rápido proceso de vacunación que se observa en el país permite ser más optimistas respecto del futuro. En efecto, según la última encuesta de expectativas económicas del Banco Central, se espera que la producción crezca 5.2% en 2021. Por su parte, los últimos datos del mercado laboral del INE para enero 2021 muestran una tasa de desempleo estancada (en 10%), lo cual se explica por un crecimiento similar de la fuerza laboral y del empleo en el margen (1.1 y 1.2% mensual, respectivamente). Esto significa que la economía está creando puestos de trabajo en el margen, pero que también las personas que estaban fuera de la fuerza laboral están volviendo a la misma en búsqueda de un trabajo. Es probable que este proceso se mantenga en los próximos meses y que la recuperación del mercado laboral sea algo más lenta que la de la economía.
 
-![](/assets/img_posts/radiografia_fig1)
+![](/assets/img_posts/radiografia_fig1.png)
