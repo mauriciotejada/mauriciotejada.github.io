@@ -7,13 +7,10 @@ title: Research
 
 - "Sources of Gender Wage Gaps for Skilled Workers in Latin American Countries" (with Marcela Perticará). **Journal of Economic Inequality**, *forthcoming*. [[PDF](/assets/pdf/Perticara_Tejada_GGLA_2021.pdf)] [[Web Appendix](/assets/pdf/Perticara_Tejada_GGLA_2021_appendix.pdf)]
 - "Does Public Sector Employment Buffer the Minimum Wage Effects?" (with Lucas Navarro). **Review of Economic Dynamics**, *In Press*. [[PDF](/assets/pdf/Navarro_Tejada_Public_Sector_2021.pdf)] [[Web Appendix](/assets/pdf/Navarro_Tejada_Public_Sector_2021_Appendix.pdf)]
+- "Gender Gaps in Latin American Labor Markets: Implications from an Estimated Search Model" (with Monserrat Bustelo, Luca Flabbi and Claudia Piras). **Annals of Economics and Statistics**, Vol. 142, June 2021, pp. 1-68. [[PDF](/assets/pdf/TPFBpaper2021.pdf)] [[Web Appendix](/assets/pdf/TPFBpaper2021_appendix.pdf)]
 - "Labor Market Search, Informality, and On-The-Job Human Capital Accumulation" **Journal of Econometrics**, Vol. 223(2), August 2021, pp. 433-453 (with Matteo Bobba, Luca Flabbi and Santiago Levy). [[PDF](https://authors.elsevier.com/a/1d8l315Dji4pd8)] [[Web Appendix](/assets/pdf/Bobba_Flabbi_Levy_Tejada_WebAppendix.pdf)]
 - "Dual Labor Markets and Labor Protection in an Estimated Search and Matching Model". **Labour Economics**. Vol. 46, June 2017, pp. 26-46. [[PDF]](/assets/pdf/Tejada_LE_2017.pdf)
 - "Lifetime Inequality Measures for an Emerging Economy: The Chilean Case". **Labour Economics**. Vol. 42, October 2016, pp. 1-15. [[PDF]](/assets/pdf/Tejada_LE_2016.pdf)
-
-####  Unpublished Completed Papers
-
-- "Gender Gaps in Latin American Labor Markets: Implications from an Estimated Search Model" (with Monserrat Bustelo, Luca Flabbi and Claudia Piras). *R&R Annals of Economics and Statistics*. [[PDF](/assets/pdf/TPFBpaper2021.pdf)] [[Web Appendix](/assets/pdf/TPFBpaper2021_appendix.pdf)]
 
 #### Work in Progress
 
