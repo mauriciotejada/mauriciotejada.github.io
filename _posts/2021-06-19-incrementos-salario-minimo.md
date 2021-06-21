@@ -22,5 +22,3 @@ Sin duda que mejorar las condiciones de vida de los trabajadores de bajos ingres
 ![](/assets/img_posts/salario_minimo_fig1.png)
 
 ![](/assets/img_posts/salario_minimo_fig2.png)
-
-![](/assets/img_posts/salario_minimo_fig3.png)
