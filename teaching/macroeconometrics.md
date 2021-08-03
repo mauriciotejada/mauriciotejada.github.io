@@ -45,4 +45,4 @@ Referencias útiles:
 
 - Las bases de datos del libro de texto de Wooldridge (4ta edición) pueden descargarse de la página web de [Cengage](http://www.cengage.com/cgi-wadsworth/course_products_wp.pl?fid=M20b&flag=student&product_isbn_issn=9780324581621&disciplinenumber=413). Además están disponibles en [Boston College](http://fmwww.bc.edu/gstat/examples/wooldridge/wooldridge.html).
 Las bases de datos del libro de Stock y Watson (3ra edición) pueden descargarse de la página web de [Pearon](https://wps.pearsoned.com/aw_stock_ie_3/178/45691/11696965.cw/index.html).
-- El paquete *wooldridge** contiene también las bases de datos del libro de texto de Wooldridge 
+- El paquete *wooldridge* contiene también las bases de datos del libro de texto de Wooldridge. 
