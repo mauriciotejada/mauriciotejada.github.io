@@ -30,10 +30,10 @@ Puedes descargar el sílabo [aqui](https://www.dropbox.com/s/etssarfsg119s8t/Mac
 - Introducción a las Fluctuaciones Económicas: La Oferta y Demanda Agregadas.
 - La demanda agregada a Corto Plazo: el Modelo IS-LM.
 - La Demanda Agregada en una Economía Abierta: El Modelo Mundell-Fleming.
-- La Oferta Agregada y la Disyuntiva a Corto Plazo entre Inflación  y Desempleo.
+- La Oferta Agregada y la Disyuntiva a Corto Plazo entre Inflación y Desempleo.
 - Introducción al Crecimiento Económico.
 
-#### Guías de Ejercicios
+#### Guías de ejercicios
 
 - [Guía de Ejercicios 1](https://www.dropbox.com/s/hdkce2ygxe1ljle/Guia%20Ejercicios%201.pdf?dl=1)
 - [Guía de Ejercicios 2](https://www.dropbox.com/s/whgqp0jgas0oxu3/Guia%20Ejercicios%202.pdf?dl=1)
@@ -45,6 +45,6 @@ Puedes descargar el sílabo [aqui](https://www.dropbox.com/s/etssarfsg119s8t/Mac
 - Segundo Examen Parcial (8 de Octubre 2019) [Pauta](https://www.dropbox.com/s/6hnrncxydn0ml1y/Segundo_Parcial_2019_pauta.pdf?raw=1)
 - Tercer Examen Parcial (12 de Noviembre 2019)
 
-#### Exámenes Pasados
+#### Exámenes pasados
 
 [2016](https://www.dropbox.com/s/c9n1oozm0q49acr/2016.zip?dl=1), [2017](https://www.dropbox.com/s/dgsmylha96j0xny/2017.zip?dl=1), [2018](https://www.dropbox.com/s/lptp18nq6enrhqu/2018.zip?dl=1).
