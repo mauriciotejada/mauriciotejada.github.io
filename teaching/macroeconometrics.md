@@ -27,7 +27,7 @@ Puedes encontrar información del curso [aquí](/macroeconometria/0_Temas_Admini
     - Cointegración y el modelo de corrección de error [Slides] [Ejemplos en R]
 6. Heterocedasticidad en modelos de series de tiempo [Slides] [Ejemplos en R]
 
-#### Referencias Bibliográficas Básicas
+#### Referencias bibliográficas básicas
 
 - Stock, James y Watson, Mark (2012). Introducción a la Econometría. Tercera Edición, Prentice- Hall.
 - Wooldridge, Jeffrey M. (2010). Introducción a la Econometría. Un Enfoque Moderno. Cuarta Edición, Thomson.
@@ -47,7 +47,7 @@ Referencias útiles:
 - Principles of Econometrics with R de Constantin Colonescu (tiene una mezcla de aplicaciones): [Página Web del Libro](https://bookdown.org/ccolonescu/RPoE4/) 
 - Introduction to Econometrics with R de Florian Oswald et.al.: [Página Web del Libro](https://scpoecon.github.io/ScPoEconometrics/)
 
-#### Bases de Datos
+#### Bases de datos
 
 - Las bases de datos del libro de texto de Wooldridge (4ta edición) pueden descargarse de la página web de [Cengage](http://www.cengage.com/cgi-wadsworth/course_products_wp.pl?fid=M20b&flag=student&product_isbn_issn=9780324581621&disciplinenumber=413). Además están disponibles en [Boston College](http://fmwww.bc.edu/gstat/examples/wooldridge/wooldridge.html).
 Las bases de datos del libro de Stock y Watson (3ra edición) pueden descargarse de la página web de [Pearon](https://wps.pearsoned.com/aw_stock_ie_3/178/45691/11696965.cw/index.html).
