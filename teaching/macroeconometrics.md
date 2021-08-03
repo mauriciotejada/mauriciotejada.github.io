@@ -41,6 +41,7 @@ Referencias útiles:
 - Using R for Introductory Econometrics de Florian Heiss (replica las aplicaciones empíricas del libro de texto de Wooldridge): [Página Web del Libro](http://www.urfie.net/)    
 - Principles of Econometrics with R de Constantin Colonescu (tiene una mezcla de aplicaciones): [Página Web del Libro](https://bookdown.org/ccolonescu/RPoE4/) 
 - Introduction to Econometrics with R de Florian Oswald et.al.: [Página Web del Libro](https://scpoecon.github.io/ScPoEconometrics/)
+
 #### Bases de Datos
 
 - Las bases de datos del libro de texto de Wooldridge (4ta edición) pueden descargarse de la página web de [Cengage](http://www.cengage.com/cgi-wadsworth/course_products_wp.pl?fid=M20b&flag=student&product_isbn_issn=9780324581621&disciplinenumber=413). Además están disponibles en [Boston College](http://fmwww.bc.edu/gstat/examples/wooldridge/wooldridge.html).
