@@ -5,6 +5,7 @@ title: Teaching
 
 #### Undergraduate Courses at ILADES – Universidad Alberto Hurtado
 
+- [Macroeconometrics (In Spanish)](/teaching/macroeconometrics.md)
 - [Econometrics II (In Spanish)](/teaching/econometrics-ii)
 - [Macroeconomics I (In Spanish)](/teaching/macroeconomics-i)
 

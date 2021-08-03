@@ -1,0 +1,47 @@
+---
+layout: page
+title: Macroeconometría
+---
+
+<div style="text-align: right"> Segundo Semestre 2021 </div>
+
+#### Descripción
+
+Este curso provee una revisión de la teoría y las principales aplicaciones del uso de datos de series de tiempo en econometría. Los tópicos cubiertos incluyen tanto modelos univariados como multivariados caracterizados por procesos tanto estacionarios y como no estacionarios. Se pondrá énfasis en el uso de series de tiempo para realizar predicciones o pronósticos y para identificar efectos causales dinámicos. El objetivo principal es proveer al alumno de habilidades para realizar, entender y evaluar críticamente trabajos empíricos relacionados con el uso de series de tiempo.
+
+#### Sílabo
+
+Puedes descargar el sílabo [aquí]()
+
+#### Contenidos
+
+1. Introducción al uso de R [Slides] [Ejemplos] [Archivos R]
+2. Introducción a la econometría de series de tiempo [Slides] [Ejemplos] [Archivos R]
+3. Modelos de Series de Tiempo Estacionarias
+    - Efectos causales dinámicos y el modelo de regresión Parte I [Slides] [Ejemplos] [Archivos R]
+    - Efectos causales dinámicos y el modelo de regresión Parte II [Slides] [Ejemplos] [Archivos R] 
+    - Predicción [Slides] [Ejemplos] [Archivos R]
+4. Modelos de series de tiempo no estacionarias [Slides] [Ejemplos] [Archivos R]  
+5. Modelos de series de tiempo multivariados
+    - Modelo de vectores autoregresivos [Slides] [Ejemplos] [Archivos R] 
+    - Cointegración y el modelo de corrección de error [Slides] [Ejemplos] [Archivos R] 
+6. Heteroscedasticidad en modelos de series de tiempo [Slides] [Ejemplos] [Archivos R] 
+
+#### Software
+
+Las tareas y los módulos prácticos requieren del uso del paquete R. Las páginas web para la descarga de R y RStudio:
+
+[https://www.r-project.org/](https://www.r-project.org/)
+
+[https://rstudio.com/](https://rstudio.com/)
+
+Referencias útiles:
+
+- Introduction to Econometrics with R de Christoph Hanck, Martin Arnold, Alexander Gerber y Martin Schmelzer (replica las aplicaciones empíricas del libro de texto de Stock y Watson): [Página Web del Libro](https://www.econometrics-with-r.org/)
+- Using R for Introductory Econometrics de Florian Heiss (replica las aplicaciones empíricas del libro de texto de Wooldridge): [Página Web del Libro](http://www.urfie.net/)    
+- Principles of Econometrics with R de Constantin Colonescu (tiene una mezcla de aplicaciones): [Página Web del Libro](https://bookdown.org/ccolonescu/RPoE4/) 
+
+#### Bases de Datos
+
+Las bases de datos del libro de Wooldridge (4ta edición) pueden descargarse de la página web de [Cengage](http://www.cengage.com/cgi-wadsworth/course_products_wp.pl?fid=M20b&flag=student&product_isbn_issn=9780324581621&disciplinenumber=413). Además están disponibles en [Boston College](http://fmwww.bc.edu/gstat/examples/wooldridge/wooldridge.html).
+Las bases de datos del libro de Stock y Watson (3ra edición) pueden descargarse de la página web de [Pearon](https://wps.pearsoned.com/aw_stock_ie_3/178/45691/11696965.cw/index.html).
