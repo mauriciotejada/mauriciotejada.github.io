@@ -15,17 +15,17 @@ Puedes encontrar información del curso [aquí](/macroeconometria/0_Temas_Admini
 
 #### Contenidos
 
-1. Introducción al uso de R [[Slides]](/macroeconometria/1_Introduccion_a_R/) [Ejemplos] [Archivos R]
-2. Introducción a la econometría de series de tiempo [Slides] [Ejemplos] [Archivos R]
+1. Introducción al uso de R [[Slides]](/macroeconometria/1_Introduccion_a_R/) [Ejemplos en R]
+2. Introducción a la econometría de series de tiempo [[Slides]](/macroeconometria/2_Introduccion_Series_de_Tiempo/) [Ejemplos en R]
 3. Modelos de Series de Tiempo Estacionarias
-    - Efectos causales dinámicos y el modelo de regresión Parte I [Slides] [Ejemplos] [Archivos R]
-    - Efectos causales dinámicos y el modelo de regresión Parte II [Slides] [Ejemplos] [Archivos R] 
-    - Predicción [Slides] [Ejemplos] [Archivos R]
-4. Modelos de series de tiempo no estacionarias [Slides] [Ejemplos] [Archivos R]  
+    - Efectos causales dinámicos y el modelo de regresión Parte I [Slides] [Ejemplos en R]
+    - Efectos causales dinámicos y el modelo de regresión Parte II [Slides] [Ejemplos en R] 
+    - Predicción [Slides] [Ejemplos en R]
+4. Modelos de series de tiempo no estacionarias [Slides] [Ejemplos en R]
 5. Modelos de series de tiempo multivariados
-    - Modelo de vectores autoregresivos [Slides] [Ejemplos] [Archivos R] 
-    - Cointegración y el modelo de corrección de error [Slides] [Ejemplos] [Archivos R] 
-6. Heteroscedasticidad en modelos de series de tiempo [Slides] [Ejemplos] [Archivos R] 
+    - Modelo de vectores autoregresivos [Slides] [Ejemplos en R]
+    - Cointegración y el modelo de corrección de error [Slides] [Ejemplos en R]
+6. Heterocedasticidad en modelos de series de tiempo [Slides] [Ejemplos en R]
 
 #### Software
 
