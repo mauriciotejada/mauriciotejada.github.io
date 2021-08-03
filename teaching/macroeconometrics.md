@@ -11,11 +11,11 @@ Este curso provee una revisión de la teoría y las principales aplicaciones del
 
 #### Sílabo
 
-Puedes descargar el sílabo [aquí]()
+Puedes encontrar información del curso [aquí](/macroeconometria/0_Temas_Administrativos/)
 
 #### Contenidos
 
-1. Introducción al uso de R [Slides](/macroeconometria/1_Introduccion_a_R/) [Ejemplos] [Archivos R]
+1. Introducción al uso de R [[Slides]](/macroeconometria/1_Introduccion_a_R/) [Ejemplos] [Archivos R]
 2. Introducción a la econometría de series de tiempo [Slides] [Ejemplos] [Archivos R]
 3. Modelos de Series de Tiempo Estacionarias
     - Efectos causales dinámicos y el modelo de regresión Parte I [Slides] [Ejemplos] [Archivos R]
