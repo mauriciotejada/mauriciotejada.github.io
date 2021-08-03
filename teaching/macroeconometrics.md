@@ -27,6 +27,11 @@ Puedes encontrar información del curso [aquí](/macroeconometria/0_Temas_Admini
     - Cointegración y el modelo de corrección de error [Slides] [Ejemplos en R]
 6. Heterocedasticidad en modelos de series de tiempo [Slides] [Ejemplos en R]
 
+#### Referencias Bibliográficas Básicas
+
+- Stock, James y Watson, Mark (2012). Introducción a la Econometría. Tercera Edición, Prentice- Hall.
+- Wooldridge, Jeffrey M. (2010). Introducción a la Econometría. Un Enfoque Moderno. Cuarta Edición, Thomson.
+
 #### Software
 
 Las tareas y los módulos prácticos requieren del uso del paquete R. Las páginas web para la descarga de R y RStudio:
@@ -46,4 +51,4 @@ Referencias útiles:
 
 - Las bases de datos del libro de texto de Wooldridge (4ta edición) pueden descargarse de la página web de [Cengage](http://www.cengage.com/cgi-wadsworth/course_products_wp.pl?fid=M20b&flag=student&product_isbn_issn=9780324581621&disciplinenumber=413). Además están disponibles en [Boston College](http://fmwww.bc.edu/gstat/examples/wooldridge/wooldridge.html).
 Las bases de datos del libro de Stock y Watson (3ra edición) pueden descargarse de la página web de [Pearon](https://wps.pearsoned.com/aw_stock_ie_3/178/45691/11696965.cw/index.html).
-- El paquete *wooldridge* contiene también las bases de datos del libro de texto de Wooldridge. 
+- El paquete de R *wooldridge* contiene también las bases de datos del libro de texto de Wooldridge. 
