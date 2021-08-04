@@ -25,6 +25,8 @@ Puedes encontrar información del curso [aquí](/macroeconometria/0_Temas_Admini
     - Cointegración y el modelo de corrección de error [Slides] [Ejemplos en R]
 6. Heterocedasticidad en modelos de series de tiempo [Slides] [Ejemplos en R]
 
+Las presentaciones pueden ser impresas en formato pdf directamente desde el navegador (se recomienda usar Google Chrome para realizar la impresión).
+
 #### Referencias bibliográficas básicas
 
 - Stock, James y Watson, Mark (2012). Introducción a la Econometría. Tercera Edición, Prentice- Hall.
