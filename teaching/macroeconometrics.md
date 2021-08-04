@@ -9,14 +9,12 @@ title: Macroeconometría
 
 Este curso provee una revisión de la teoría y las principales aplicaciones del uso de datos de series de tiempo en econometría. Los tópicos cubiertos incluyen tanto modelos univariados como multivariados caracterizados por procesos tanto estacionarios y como no estacionarios. Se pondrá énfasis en el uso de series de tiempo para realizar predicciones o pronósticos y para identificar efectos causales dinámicos. El objetivo principal es proveer al alumno de habilidades para realizar, entender y evaluar críticamente trabajos empíricos relacionados con el uso de series de tiempo.
 
-#### Sílabo
-
 Puedes encontrar información del curso [aquí](/macroeconometria/0_Temas_Administrativos/)
 
 #### Contenidos
 
-1. Introducción al uso de R [[Slides]](/macroeconometria/1_Introduccion_a_R/) [Ejemplos en R]
-2. Introducción a la econometría de series de tiempo [[Slides]](/macroeconometria/2_Introduccion_Series_de_Tiempo/) [Ejemplos en R]
+1. Introducción al uso de R [[Slides](/macroeconometria/1_Introduccion_a_R/)] [[Ejemplos en R](https://www.dropbox.com/s/7bpc9fw3hmsg8kb/1_introduccion_a_R.zip?dl=1)]
+2. Introducción a la econometría de series de tiempo [[Slides](/macroeconometria/2_Introduccion_Series_de_Tiempo/)] [[Ejemplos en R](https://www.dropbox.com/s/uuc4ee6606mkbup/2_Introduccion_Series_de_Tiempo.zip?dl=1)]
 3. Modelos de Series de Tiempo Estacionarias
     - Efectos causales dinámicos y el modelo de regresión Parte I [Slides] [Ejemplos en R]
     - Efectos causales dinámicos y el modelo de regresión Parte II [Slides] [Ejemplos en R] 
