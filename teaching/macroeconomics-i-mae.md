@@ -5,7 +5,7 @@ exclude: true
 permalink: /teaching/macroeconomics-i-mae
 ---
 
-<div style="text-align: right"> Segundo Semestre 2020 </div>
+<div style="text-align: right"> Segundo Semestre 2021 </div>
 
 #### Descripción
 
@@ -13,11 +13,11 @@ Este curso presenta una introducción al modelamiento macroeconómico, enfocánd
 
 #### Sílabo
 
-Puedes descargar el sílabo aquí.
+Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/pif9xx6fh3ph2gz/Silabo%20Macro%20I%202021.pdf?raw=1).
 
 #### Contenidos
 
-1. La Macroeconomía Moderna [Slides].
+1. La Macroeconomía Moderna [[Slides]](https://www.dropbox.com/s/n68htfghr3vwwie/1_La_Macro_Moderna.pdf?raw=1).
 2. El Modelo Neoclásico de Crecimiento [Slides].
 3. Modelos de Crecimiento Endógeno de 1era y 2da generación [Slides]
 4. El Modelo Estocástico de Crecimiento [Slides]
