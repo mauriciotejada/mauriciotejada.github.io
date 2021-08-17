@@ -18,7 +18,10 @@ Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/pif9xx6fh3ph2gz/Si
 #### Contenidos
 
 1. La Macroeconomía Moderna [[Slides]](https://www.dropbox.com/s/n68htfghr3vwwie/1_La_Macro_Moderna.pdf?raw=1).
-2. El Modelo Neoclásico de Crecimiento [Slides].
+2. El Modelo Neoclásico de Crecimiento [[Slides]](https://www.dropbox.com/s/hhurghyofb8836g/2_El_Modelo_Noclasico_de_Crecimiento.pdf?raw=1).
+   1. Notas sobre las propiedades de la función de producción [[pdf](https://www.dropbox.com/s/7sv4735ytsgqaiw/H1_Funcion_Produccion.pdf?raw=1)].
+   2. Notas sobre las propiedades de la función de utilidad [[pdf](https://www.dropbox.com/s/dgsgt5aq2j6ldev/H2_Funcion_Utilidad.pdf?raw=1)].
+   3. Notas sobre la formulación general del problema de programación dinámica [[pdf](https://www.dropbox.com/s/ornulzbc9keguor/H3_Programacion_Dinamica.pdf?raw=1)].  
 3. Modelos de Crecimiento Endógeno de 1era y 2da generación [Slides]
 4. El Modelo Estocástico de Crecimiento [Slides]
 5. Modelo de Crecimiento con Agentes Heterogéneos [Slides]
