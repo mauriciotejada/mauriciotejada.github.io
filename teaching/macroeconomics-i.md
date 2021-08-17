@@ -5,6 +5,7 @@ title: Macroeconomía I
 
 <div style="text-align: right"> Segundo Semestre 2019 </div>
 
+
 El curso es de nivel introductorio en el campo específico de la Macroeconomía y su objetivo es el desarrollo de los conceptos relacionados al equilibrio macroeconómico, los determinantes de la demanda y oferta agregadas, la disyuntiva inflación-desempleo, el análisis de la economía abierta y el crecimiento económico. A la vez se busca brindarles a los alumnos la capacidad para responder a problemas de políticas macroeconómicas.
 
 #### Sílabo
