@@ -17,7 +17,7 @@ Puedes encontrar información del curso [aquí](/macroeconometria/0_Temas_Admini
 2. Introducción a la econometría de series de tiempo [[Slides](/macroeconometria/2_Introduccion_Series_de_Tiempo/)] [[Ejemplos en R](https://www.dropbox.com/s/uuc4ee6606mkbup/2_Introduccion_Series_de_Tiempo.zip?dl=1)]
 3. Modelos de Series de Tiempo Estacionarias
     - Efectos causales dinámicos y el modelo de regresión Parte I [[Slides](/macroeconometria/3_Series_de_Tiempo_Estacionarias_ECD1/)] [[Ejemplos en R](https://www.dropbox.com/s/6nbefyxj89zugzm/3_Series_de_Tiempo_Estacionarias_ECD_P1.R?dl=1)]
-    - Efectos causales dinámicos y el modelo de regresión Parte II [Slides] [Ejemplos en R] 
+    - Efectos causales dinámicos y el modelo de regresión Parte II [[Slides](/macroeconometria/4_Series_de_Tiempo_Estacionarias_ECD2/)] [[Ejemplos en R](https://www.dropbox.com/s/nq9swk8xbrrndem/4_Series_de_Tiempo_Estacionarias_ECD_P2.zip?dl=1)] 
     - Predicción [Slides] [Ejemplos en R]
 4. Modelos de series de tiempo no estacionarias [Slides] [Ejemplos en R]
 5. Modelos de series de tiempo multivariados
