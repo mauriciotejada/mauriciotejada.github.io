@@ -25,16 +25,13 @@ Puedes encontrar información del curso [aquí](/macroeconometria/0_Temas_Admini
     - Cointegración y el modelo de corrección de error
 6. Heterocedasticidad en modelos de series de tiempo
 
-Nota: Las presentaciones pueden ser impresas en *formato pdf* directamente desde el navegador (se recomienda usar Google Chrome para realizar la impresión).
+**Nota**: Las presentaciones pueden ser impresas en *formato pdf* directamente desde el navegador (se recomienda usar Google Chrome para realizar la impresión).
 
-Material Adicional
+Material adicional:
 
 - El modelo de regresión simple [[pdf](https://www.dropbox.com/s/jecl5xqp8qnporh/regresion_simple.pdf?raw=1)].
-  
 - El modelo de regresión múltiple [[pdf](https://www.dropbox.com/s/nngy0ixusrumsft/regresion_multiple.pdf?raw=1)].
-
 - Propiedad de insesgamiento de MCO [[pdf](https://www.dropbox.com/s/y8ghl1o4zi105d5/insesgamiento.pdf?raw=1)].
-
 - Varianza MCO y el teorema de Gauss-Markov [[pdf](https://www.dropbox.com/s/itnw7dikr6y1q90/teorema_gauss_markov.pdf?raw=1)].
 
 #### Referencias bibliográficas básicas
