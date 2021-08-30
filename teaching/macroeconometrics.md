@@ -20,7 +20,7 @@ Puedes encontrar información del curso [aquí](/macroeconometria/0_Temas_Admini
     - Efectos causales dinámicos y el modelo de regresión Parte II [[Slides](/macroeconometria/4_Series_de_Tiempo_Estacionarias_ECD2/)] [[Ejemplos en R](https://www.dropbox.com/s/nq9swk8xbrrndem/4_Series_de_Tiempo_Estacionarias_ECD_P2.zip?dl=1)] 
     - Predicción [[Slides](/macroeconometria/5_Series_de_Tiempo_Estacionarias_Prediccion/)] [[Ejemplos en R](https://www.dropbox.com/s/0qinzjr9x8tsv38/5_Series_de_Tiempo_Estacionarias_Prediccion.zip?dl=1)]
 4. Modelos de series de tiempo no estacionarias [[Slides](/macroeconometria/6_Series_de_Tiempo_No_Estacionarias/)] [[Ejemplos en R](https://www.dropbox.com/s/lr9rlnc4e1d3mhz/6_Series_de_Tiempo_No_Estacionarias.zip?dl=1)]
-5. Modelos de series de tiempo multivariados [Slides] [Ejemplos en R]
+5. Modelos de series de tiempo multivariados [[Slides](/macroeconometria/7_Series_de_Tiempo_Multivariadas/)] [[Ejemplos en R](https://www.dropbox.com/s/5fhy7hg3l93ff54/7_Series_de_Tiempo_Multivariadas.zip?dl=1)]
     - Modelo de vectores autoregresivos 
     - Cointegración y el modelo de corrección de error
 6. Heterocedasticidad en modelos de series de tiempo
