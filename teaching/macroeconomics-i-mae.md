@@ -27,7 +27,7 @@ Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/pif9xx6fh3ph2gz/Si
    - Implementación del shooting algorithm usando Julia [[notebook interactivo](https://mybinder.org/v2/gh/mauriciotejada/macroeconomics_I/master?filepath=El%20Modelo%20Neoclasico%20SA.ipynb)].
    - Implementación del método iteración de la función valor usando Julia [[notebook interactivo](https://mybinder.org/v2/gh/mauriciotejada/macroeconomics_I/master?filepath=El%20Modelo%20Neoclasico%20PD.ipynb)].  
 
-3. Modelos de Crecimiento Endógeno de 1era y 2da generación [Slides]
+3. Modelos de Crecimiento Endógeno de 1era y 2da generación [[Slides](https://www.dropbox.com/s/7l93efmjrz60cdu/3_Modelos_de_Crecimiento_Endogeno.pdf?raw=1)]
    - Notas sobre la estabilidad del modelo AK [[pdf](https://www.dropbox.com/s/irknyc5v1qgp4nb/H5_Estabilidad_Modelo_AK.pdf?raw=1)].
    - Notas sobre el uso del agregador CES [[pdf](https://www.dropbox.com/s/j91b24u4hapbstl/H6_Agregadores_CES.pdf?raw=1)].
 
