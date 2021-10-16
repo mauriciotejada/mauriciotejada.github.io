@@ -24,14 +24,15 @@ Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/pif9xx6fh3ph2gz/Si
    - Notas sobre las propiedades de la función de utilidad [[pdf](https://www.dropbox.com/s/dgsgt5aq2j6ldev/H2_Funcion_Utilidad.pdf?raw=1)].
    - Notas sobre la formulación general del problema de programación dinámica [[pdf](https://www.dropbox.com/s/ornulzbc9keguor/H3_Programacion_Dinamica.pdf?raw=1)].
    - Notas sobre la senda de crecimiento balanceado generalizada [[pdf](https://www.dropbox.com/s/ew5d7lm3fecrcah/H4_Senda_Crecimiendo_Balanceado_Generalizada.pdf?raw=1)].
-   - Implementación del shooting algorithm usando Julia [[notebook interactivo](https://mybinder.org/v2/gh/mauriciotejada/macroeconomics_I/master?filepath=El%20Modelo%20Neoclasico%20SA.ipynb)].
-   - Implementación del método iteración de la función valor usando Julia [[notebook interactivo](https://mybinder.org/v2/gh/mauriciotejada/macroeconomics_I/master?filepath=El%20Modelo%20Neoclasico%20PD.ipynb)].  
+   - Implementación del shooting algorithm usando Julia [[notebook](https://mybinder.org/v2/gh/mauriciotejada/macroeconomics_I/master?filepath=El%20Modelo%20Neoclasico%20SA.ipynb)].
+   - Implementación del método iteración de la función valor usando Julia [[notebook](https://mybinder.org/v2/gh/mauriciotejada/macroeconomics_I/master?filepath=El%20Modelo%20Neoclasico%20PD.ipynb)].  
 
 3. Modelos de Crecimiento Endógeno de 1era y 2da generación [[Slides](https://www.dropbox.com/s/7l93efmjrz60cdu/3_Modelos_de_Crecimiento_Endogeno.pdf?raw=1)]
    - Notas sobre la estabilidad del modelo AK [[pdf](https://www.dropbox.com/s/irknyc5v1qgp4nb/H5_Estabilidad_Modelo_AK.pdf?raw=1)].
    - Notas sobre el uso del agregador CES [[pdf](https://www.dropbox.com/s/j91b24u4hapbstl/H6_Agregadores_CES.pdf?raw=1)].
 
-4. El Modelo Estocástico de Crecimiento [Slides]
+4. El Modelo Estocástico de Crecimiento [[Slides](https://www.dropbox.com/s/y6wdlq2oqo9g5ej/4_El_Modelo_Estocastico_de_Crecimiento.pdf?raw=1)]
+   - Implementación del método iteración de la función valor usando Julia [[notebook](https://mybinder.org/v2/gh/mauriciotejada/macroeconomics_I/HEAD?labpath=El%20Modelo%20Estocastico%20PD.ipynb)]
    
 5. Modelo de Crecimiento con Agentes Heterogéneos [Slides]
 
