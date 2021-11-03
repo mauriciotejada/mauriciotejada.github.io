@@ -33,7 +33,10 @@ Material adicional:
 - El modelo de regresión múltiple [[pdf](https://www.dropbox.com/s/nngy0ixusrumsft/regresion_multiple.pdf?raw=1)].
 - Propiedad de insesgamiento de MCO [[pdf](https://www.dropbox.com/s/y8ghl1o4zi105d5/insesgamiento.pdf?raw=1)].
 - Varianza MCO y el teorema de Gauss-Markov [[pdf](https://www.dropbox.com/s/itnw7dikr6y1q90/teorema_gauss_markov.pdf?raw=1)].
+- Propiedad de consistencia de MCO [[pdf](https://www.dropbox.com/s/f9xsm8rqteemi9n/consistencia.pdf?raw=1)].
 - Propiedades estadísticas de los modelos MA(1) y AR(1) [[pdf](https://www.dropbox.com/s/8mbpt8kfnm3ui0o/procesos_MA1_AR1.pdf?raw=1)].
+- Predicción [[pdf](https://www.dropbox.com/s/8cfgyrn6tdg1s26/prediccion.pdf?raw=1)].
+- Procesos de tendencia [[pdf](https://www.dropbox.com/s/votzrnzbscxkjw6/procesos_tendencia.pdf?raw=1)].
 
 #### Referencias bibliográficas básicas
 
