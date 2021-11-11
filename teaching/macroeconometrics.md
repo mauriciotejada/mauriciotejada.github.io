@@ -23,7 +23,7 @@ Puedes encontrar información del curso [aquí](/macroeconometria/0_Temas_Admini
 5. Modelos de series de tiempo multivariados [[Slides](/macroeconometria/7_Series_de_Tiempo_Multivariadas/)] [[Ejemplos en R](https://www.dropbox.com/s/5fhy7hg3l93ff54/7_Series_de_Tiempo_Multivariadas.zip?dl=1)]
     - Modelo de vectores autoregresivos 
     - Cointegración y el modelo de corrección de error
-6. Heterocedasticidad en modelos de series de tiempo [Slides] [Ejemplos en R]
+6. Heterocedasticidad en modelos de series de tiempo [[Slides](/macroeconometria/8_Heterocedasticidad_en_Modelos_de_Series_de_Tiempo/)] [[Ejemplos en R]](https://www.dropbox.com/s/vzhdggbtlx3ebof/8_Heterocedasticidad_en_Modelos_de_Series_de_Tiempo.zip?dl=1)
 
 **Nota**: Las presentaciones pueden ser impresas en *formato pdf* directamente desde el navegador (se recomienda usar Google Chrome para realizar la impresión).
 
