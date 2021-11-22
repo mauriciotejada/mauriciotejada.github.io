@@ -33,6 +33,7 @@ Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/pif9xx6fh3ph2gz/Si
 
 4. El Modelo Estocástico de Crecimiento [[Slides](https://www.dropbox.com/s/y6wdlq2oqo9g5ej/4_El_Modelo_Estocastico_de_Crecimiento.pdf?raw=1)]
    - Implementación del método iteración de la función valor usando Julia [[notebook](https://mybinder.org/v2/gh/mauriciotejada/macroeconomics_I/HEAD?labpath=El%20Modelo%20Estocastico%20PD.ipynb)]
+   - Implementación del método de perturbación usando Julia [[notebook](https://mybinder.org/v2/gh/mauriciotejada/macroeconomics_I/HEAD?labpath=El_Modelo_RBC.ipynb)] [[scripts en Julia](https://www.dropbox.com/s/qg42ty3ple9powo/RBC%20model.zip?dl=1)]
    
 5. Modelo de Crecimiento con Agentes Heterogéneos [Slides]
 
