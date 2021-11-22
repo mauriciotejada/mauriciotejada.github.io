@@ -35,7 +35,7 @@ Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/pif9xx6fh3ph2gz/Si
    - Implementación del método iteración de la función valor usando Julia [[notebook](https://mybinder.org/v2/gh/mauriciotejada/macroeconomics_I/HEAD?labpath=El%20Modelo%20Estocastico%20PD.ipynb)]
    - Implementación del método de perturbación usando Julia [[notebook](https://mybinder.org/v2/gh/mauriciotejada/macroeconomics_I/HEAD?labpath=El_Modelo_RBC.ipynb)] [[scripts en Julia](https://www.dropbox.com/s/qg42ty3ple9powo/RBC%20model.zip?dl=1)]
    
-5. Modelo de Crecimiento con Agentes Heterogéneos [Slides]
+5. Modelo de Crecimiento con Agentes Heterogéneos [[Slides](https://www.dropbox.com/s/6ksq2pmpr3xs6qs/5_El_Modelo_Neoclasico_con_Agentes_Heterogeneos.pdf?raw=1)]
 
 #### Software
 
