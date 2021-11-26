@@ -14,8 +14,10 @@ title: Research
 
 #### Work in Progress
 
-- Search, Informality and Asset Accumulation.
+- Search, Informality and Asset Accumulation (with Luca Flabbi).
 - Welfare, Inequality and Occupational Choice.
+- Household job search, commuting time and job flexibility (with Marcela Perticar\'a)
+- Evaluating the effect of changes in working hours on labor allocation and productivity (with Benjam\'in Villena)
 
 #### Book Chapters
 

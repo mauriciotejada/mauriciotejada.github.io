@@ -35,7 +35,8 @@ Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/pif9xx6fh3ph2gz/Si
    - Implementación del método iteración de la función valor usando Julia [[notebook](https://mybinder.org/v2/gh/mauriciotejada/macroeconomics_I/HEAD?labpath=El%20Modelo%20Estocastico%20PD.ipynb)]
    - Implementación del método de perturbación usando Julia [[notebook](https://mybinder.org/v2/gh/mauriciotejada/macroeconomics_I/HEAD?labpath=El_Modelo_RBC.ipynb)] [[scripts en Julia](https://www.dropbox.com/s/qg42ty3ple9powo/RBC%20model.zip?dl=1)]
    
-5. Modelo de Crecimiento con Agentes Heterogéneos [[Slides](https://www.dropbox.com/s/6ksq2pmpr3xs6qs/5_El_Modelo_Neoclasico_con_Agentes_Heterogeneos.pdf?raw=1)]
+5. Modelo de Crecimiento con Agentes Heterogéneos [[Slides](https://www.dropbox.com/s/z5u2euabgs5sv34/5_El_Modelo_Neoclasico_con_Agentes_Heterogeneos.pdf?raw=1)]
+   - Implementación del método de perturbación para el modelo RBC con agentes Ricardianos y No Ricardiano usando Julia [[notebook](https://mybinder.org/v2/gh/mauriciotejada/macroeconomics_I/HEAD?labpath=El_Modelo_RBC_Agentes_Ricardianos.ipynb)]
 
 #### Software
 
@@ -43,6 +44,7 @@ Las tareas y los módulos prácticos requieren del uso de un software de anális
 
 #### Tareas
 
-- Tarea 1: Enunciado. 
-- Tarea 2: Enunciado.
-- Tarea 3: Enunciado.
+- Tarea 1: [Enunciado](https://www.dropbox.com/s/t2i4ky6twolt3vo/tarea_1_2021.pdf?raw=1). 
+- Tarea 2: [Enunciado](https://www.dropbox.com/s/yv9sc500i7fdurv/tarea_2_2021.pdf?raw=1).
+- Tarea 3: [Enunciado](https://www.dropbox.com/s/h03ftzei4fav1x6/tarea_3_2021.pdf?raw=1).
+- Tarea 4: [Enunciado](https://www.dropbox.com/s/x34o6at0l9og12i/tarea_4_2021.pdf?raw=1).
