@@ -37,6 +37,8 @@ Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/pif9xx6fh3ph2gz/Si
    
 5. Modelo de Crecimiento con Agentes Heterogéneos [[Slides](https://www.dropbox.com/s/z5u2euabgs5sv34/5_El_Modelo_Neoclasico_con_Agentes_Heterogeneos.pdf?raw=1)]
    - Implementación del método de perturbación para el modelo RBC con agentes Ricardianos y No Ricardiano usando Julia [[notebook](https://mybinder.org/v2/gh/mauriciotejada/macroeconomics_I/HEAD?labpath=El_Modelo_RBC_Agentes_Ricardianos.ipynb)]
+   - Implementación del método iteración de la función valor para el modelo de Ayagari [[scripts en Julia](https://www.dropbox.com/s/a1alt9f7d3cnenx/Modelo_de_Ayagari_Julia.jl?dl=1)]
+   - Implementación del método de perturbación para el modelo de Ayagari con riesgo agregado [[notebook](https://mybinder.org/v2/gh/mauriciotejada/macroeconomics_I/HEAD?labpath=Modelo_Neoclasico_AH_Riesgo_Agregado.ipynb)]
 
 #### Software
 
