@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Desarrollo Económico
+exclude: true
+permalink: /teaching/desarrollo-economico
 ---
 
 <div style="text-align: right"> Primer Semestre 2022 </div>
