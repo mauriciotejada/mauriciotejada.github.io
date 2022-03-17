@@ -13,7 +13,7 @@ Puedes encontrar información del curso [aquí](/desarrollo_economico/00/)
 
 #### Contenidos
 
-1)	Hechos estilizados sobre el desarrollo. ([slides parte 1](/desarrollo_economico/01/), [slides parte 2](/desarrollo_economico/02/))
+1)	Hechos estilizados sobre el desarrollo. [[slides parte 1](/desarrollo_economico/01/)] [[slides parte 2](/desarrollo_economico/02/)]
 
 2)	Crecimiento económico.
 
