@@ -17,7 +17,7 @@ Puedes encontrar información del curso [aquí](/desarrollo_economico/00/)
 
 1)	Hechos estilizados sobre el desarrollo. [[slides parte 1](/desarrollo_economico/01/)] [[slides parte 2](/desarrollo_economico/02/)]
 
-2)	Crecimiento económico.
+2)	Crecimiento económico. [[slides parte 1](/desarrollo_economico/03/)] [[slides parte 2](/desarrollo_economico/04/)]
 
 3)	Trampas para el desarrollo: profecías autocumplidas y el papel de la historia.
 
