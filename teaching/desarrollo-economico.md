@@ -31,6 +31,11 @@ Puedes encontrar información del curso [aquí](/desarrollo_economico/00/)
 
 8)	La economía política del desarrollo
 
+#### Tareas
+
+- Tarea 1: [[Preguntas](https://www.dropbox.com/s/a0esqbdhg1lssbw/Tarea_1_2022.pdf?raw=1)] [Solución] 
+
+
 #### Referencias bibliográficas
 
 **Texto base**:
@@ -99,6 +104,3 @@ Sitio web del autor: [https://debrajray.com](https://debrajray.com)
 
   - [https://barrolee.github.io/BarroLeeDataSet/](https://barrolee.github.io/BarroLeeDataSet/)
   
-#### Tareas
-
-- Tarea 1: [[Preguntas](https://www.dropbox.com/s/a0esqbdhg1lssbw/Tarea_1_2022.pdf?raw=1)] [Solución] 
