@@ -15,9 +15,9 @@ Puedes encontrar información del curso [aquí](/desarrollo_economico/00/)
 
 #### Contenidos
 
-1)	Hechos estilizados sobre el desarrollo. [[slides parte 1](/desarrollo_economico/01/)] [[slides parte 2](/desarrollo_economico/02/)]
+1)	Hechos estilizados sobre el desarrollo. [[slides parte 1]](/desarrollo_economico/01/) [[slides parte 2]](/desarrollo_economico/02/)
 
-2)	Crecimiento económico. [[slides parte 1](/desarrollo_economico/03/)] [[slides parte 2](/desarrollo_economico/04/)]
+2)	Crecimiento económico. [[slides parte 1]](/desarrollo_economico/03/) [[slides parte 2]](/desarrollo_economico/04/)
 
 3)	Trampas para el desarrollo: profecías autocumplidas y el papel de la historia.
 
@@ -33,7 +33,7 @@ Puedes encontrar información del curso [aquí](/desarrollo_economico/00/)
 
 #### Tareas
 
-- Tarea 1: [[Preguntas](https://www.dropbox.com/s/a0esqbdhg1lssbw/Tarea_1_2022.pdf?raw=1)] [Solución] 
+- Tarea 1: [[Preguntas]](https://www.dropbox.com/s/a0esqbdhg1lssbw/Tarea_1_2022.pdf?raw=1) [Solución] 
 
 
 #### Referencias bibliográficas
