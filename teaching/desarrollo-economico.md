@@ -19,7 +19,7 @@ Puedes encontrar información del curso [aquí](/desarrollo_economico/00/)
 
 2)	Crecimiento económico. [[slides parte 1]](/desarrollo_economico/03/) [[slides parte 2]](/desarrollo_economico/04/) [[slides parte 3]](/desarrollo_economico/05/)
 
-3)	Trampas para el desarrollo: profecías autocumplidas y el papel de la historia.
+3)	Trampas para el desarrollo: profecías autocumplidas y el papel de la historia. [[slides parte 1]](/desarrollo_economico/06/)
 
 4)	La distribución del ingreso y la riqueza.
 
