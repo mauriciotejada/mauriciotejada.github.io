@@ -18,6 +18,8 @@ Download my full CV in PDF [here](/assets/pdf/mtejadaCV.pdf).
 
 #### Seminar and Conferences
 
+- 2021: Pontiﬁcia Universidad Javeriana de Colombia Academic Seminar.
+- 2020: Universidad Diego Portales Academic Seminar.
 - 2019: Pontiﬁcia Universidad Católica de Chile Academic Seminar. University of Sao Paulo (USP) Academic Seminar.
 - 2018: 7th Workshop in Economic Development, 2018 MIPP Workshop in Macroeconomics, 9th Bolivian Conference on Development Economics, Universidad Diego Portales Academic Seminar, LACEA-LAMESAnnual Meeting, 30th EALE Conference,Annual Meeting of the Chilean Society of Economists (SECHI), FEN Universidad de Chile Academic Seminar, The Economics of Informality Conference.
 - 2017: 8th Bolivian Conference on Development Economics, FEN Universidad de Chile Academic Seminar, Pontificia Universidad Católica de Chile Academic Seminar, Central Bank of Chile Macroeconomics and Finance Seminar.
@@ -37,3 +39,4 @@ Download my full CV in PDF [here](/assets/pdf/mtejadaCV.pdf).
 #### Other Professional Activities
 
 - Board Member of the Bolivian Society of Economists 2015/2016 and 2020/2021 ([SEBOL](http://www.sebol.org/)).
+- Board Member of the Chilean Society of Economists 2022/2023 ([SECHI](https://www.sechi.cl))
