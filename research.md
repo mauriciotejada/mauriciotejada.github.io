@@ -12,9 +12,12 @@ title: Research
 - "Dual Labor Markets and Labor Protection in an Estimated Search and Matching Model". **Labour Economics**. Vol. 46, June 2017, pp. 26-46. [[PDF]](/assets/pdf/Tejada_LE_2017.pdf)
 - "Lifetime Inequality Measures for an Emerging Economy: The Chilean Case". **Labour Economics**. Vol. 42, October 2016, pp. 1-15. [[PDF]](/assets/pdf/Tejada_LE_2016.pdf)
 
-#### Work in Progress
+#### Unpublished Completed Papers
 
 - Working and Saving Informally (with Luca Flabbi) [[PDF](/assets/pdf/Flabbi_Tejada_wsi_2022.pdf)]
+
+#### Work in Progress
+
 - Welfare, Inequality and Occupational Choice.
 - Household job search, commuting time and job flexibility (with Marcela Perticará)
 - Evaluating the effect of changes in working hours on labor allocation and productivity (with Benjamín Villena)
