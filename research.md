@@ -14,7 +14,7 @@ title: Research
 
 #### Work in Progress
 
-- Search, Informality and Asset Accumulation (with Luca Flabbi).
+- Working and Saving Informally (with Luca Flabbi) [[PDF](/assets/pdf/Flabbi_Tejada_wsi_2022.pdf)]
 - Welfare, Inequality and Occupational Choice.
 - Household job search, commuting time and job flexibility (with Marcela Perticará)
 - Evaluating the effect of changes in working hours on labor allocation and productivity (with Benjamín Villena)
