@@ -23,11 +23,11 @@ Puedes encontrar información del curso [aquí](/desarrollo_economico/00/)
 
 4)	La distribución del ingreso y la riqueza. [[slides parte 1]](/desarrollo_economico/09/) [[slides parte 2]](/desarrollo_economico/10/) [[slides parte 3]](/desarrollo_economico/11/)
 
-5)	Demografía y desarrollo económico.
+5)	Mercados de crédito. [[slides parte 1]](/desarrollo_economico/12/)
 
-6)	Mercados de crédito.
+6)	Mercados de tierra y de trabajo.
 
-7)	Mercados de tierra y de trabajo.
+7)	Demografía y desarrollo económico.
 
 8)	La economía política del desarrollo
 
