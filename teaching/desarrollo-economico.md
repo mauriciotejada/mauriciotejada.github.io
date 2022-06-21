@@ -36,6 +36,7 @@ Puedes encontrar información del curso [aquí](/desarrollo_economico/00/)
 - Tarea 1: [[Preguntas]](https://www.dropbox.com/s/a0esqbdhg1lssbw/Tarea_1_2022.pdf?raw=1)
 - Tarea 2: [[Preguntas]](https://www.dropbox.com/s/npbu0b2fzrn4fum/Tarea_2_2022.pdf?raw=1)
 - Tarea 3: [[Preguntas]](https://www.dropbox.com/s/94eoy0w230mqle5/Tarea_3_2022.pdf?raw=1)
+- Tarea 4: [[Preguntas]](https://www.dropbox.com/s/rzdm1hixe1wd5xs/Tarea_4_2022.pdf?raw=1)
 
 #### Referencias bibliográficas
 
