@@ -3,7 +3,7 @@ layout: page
 title: Macroeconometría
 ---
 
-<div style="text-align: right"> Segundo Semestre 2021 </div>
+<div style="text-align: right"> Segundo Semestre 2022 </div>
 
 #### Descripción
 
