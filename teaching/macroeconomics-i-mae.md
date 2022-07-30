@@ -13,7 +13,7 @@ Este curso presenta una introducción al modelamiento macroeconómico, enfocánd
 
 #### Sílabo
 
-Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/9wsju1jtq0w4v9c/Silabo%20Macro%20I%202022.pdf?raw=1). En la primera clase discutiremos la forma en que organizaremos el curso. [[Slides]](https://www.dropbox.com/s/hi8mp0kb4gh6cdc/0_Temas_Administrativos.pdf?raw=1)]
+Puedes descargar el sílabo [aquí](https://www.dropbox.com/s/9wsju1jtq0w4v9c/Silabo%20Macro%20I%202022.pdf?raw=1). En la primera clase discutiremos la forma en que organizaremos el curso. [[Slides]](https://www.dropbox.com/s/hi8mp0kb4gh6cdc/0_Temas_Administrativos.pdf?raw=1)
 
 #### Contenidos
 
