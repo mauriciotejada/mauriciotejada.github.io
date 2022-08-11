@@ -14,7 +14,7 @@ title: Research
 
 #### Unpublished Completed Papers
 
-- Working and Saving Informally (with Luca Flabbi) [[PDF](/assets/pdf/Flabbi_Tejada_wsi_2022.pdf)]
+- Working and Saving Informally (with Luca Flabbi) [[PDF](/assets/pdf/Flabbi_Tejada_wsi_2022.pdf)] [[Slides](/assets/pdf/Flabbi_Tejada_wsi_slides_2022.pdf)]
 
 #### Work in Progress
 
