@@ -7,7 +7,7 @@ title: Research
 
 - "Does Public Sector Employment Buffer the Minimum Wage Effects?" (with Lucas Navarro). **Review of Economic Dynamics**, Vol. 43, January 2022, pp. 168–196. 
 
-[[DOI](https://doi.org/10.1016/j.red.2021.02.004)] [[Final Manuscript](/assets/pdf/Navarro_Tejada_Public_Sector_2022.pdf)] [[Web Appendix](/assets/pdf/Navarro_Tejada_Public_Sector_2022_Appendix.pdf)] [[Replication Files](https://ideas.repec.org/c/red/ccodes/20-43.html)]
+    [[DOI](https://doi.org/10.1016/j.red.2021.02.004)] [[Final Manuscript](/assets/pdf/Navarro_Tejada_Public_Sector_2022.pdf)] [[Web Appendix](/assets/pdf/Navarro_Tejada_Public_Sector_2022_Appendix.pdf)] [[Replication Files](https://ideas.repec.org/c/red/ccodes/20-43.html)]
 
 - "Sources of Gender Wage Gaps for Skilled Workers in Latin American Countries" (with Marcela Perticará). **Journal of Economic Inequality**, July 2021. 
 
