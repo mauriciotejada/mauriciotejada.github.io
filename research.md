@@ -7,7 +7,7 @@ title: Research
 
 - "Does Public Sector Employment Buffer the Minimum Wage Effects?" (with Lucas Navarro). **Review of Economic Dynamics**, Vol. 43, January 2022, pp. 168–196. 
 
-    [[DOI](https://doi.org/10.1016/j.red.2021.02.004)] [[Final Manuscript](/assets/pdf/Navarro_Tejada_Public_Sector_2022.pdf)] [[Web Appendix](/assets/pdf/Navarro_Tejada_Public_Sector_2022_Appendix.pdf)] [[Replication Files](https://ideas.repec.org/c/red/ccodes/20-43.html)]
+    [[DOI](https://doi.org/10.1016/j.red.2021.02.004)] [[Final Manuscript](/assets/pdf/Navarro_Tejada_RED_2022.pdf)] [[Web Appendix](/assets/pdf/Navarro_Tejada_RED_2022_Appendix.pdf)] [[Replication Files](https://ideas.repec.org/c/red/ccodes/20-43.html)]
 
 - "Sources of Gender Wage Gaps for Skilled Workers in Latin American Countries" (with Marcela Perticará). **Journal of Economic Inequality**, July 2021. 
 
@@ -19,7 +19,7 @@ title: Research
 
 - "Labor Market Search, Informality, and On-The-Job Human Capital Accumulation" **Journal of Econometrics**, Vol. 223(2), August 2021, pp. 433-453 (with Matteo Bobba, Luca Flabbi and Santiago Levy). 
 
-    [[DOI](https://doi.org/10.1016/j.jeconom.2019.05.026)] [[Final Manuscript](https://authors.elsevier.com/a/1d8l315Dji4pd8)] [[Web Appendix](/assets/pdf/Bobba_Flabbi_Levy_Tejada_WebAppendix.pdf)]
+    [[DOI](https://doi.org/10.1016/j.jeconom.2019.05.026)] [[Final Manuscript](/assets/pdf/Bobba_Flabbi_Levy_Tejada_JE_2021.pdf)] [[Web Appendix](/assets/pdf/Bobba_Flabbi_Levy_Tejada_WebAppendix.pdf)]
 
 - "Dual Labor Markets and Labor Protection in an Estimated Search and Matching Model". **Labour Economics**. Vol. 46, June 2017, pp. 26-46. 
 
