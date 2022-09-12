@@ -18,10 +18,11 @@ Download my full CV in PDF [here](/assets/pdf/mtejadaCV.pdf).
 
 #### Seminar and Conferences
 
+- 2022: Annual Meeting of the Chilean Society of Economists (SECHI), Universidad Diego Portales Academic Seminar, Universidad Alberto Hurtado - Universidad Andrés Bello Academic Seminar.
 - 2021: Pontiﬁcia Universidad Javeriana de Colombia Academic Seminar.
 - 2020: Universidad Diego Portales Academic Seminar.
 - 2019: Pontiﬁcia Universidad Católica de Chile Academic Seminar. University of Sao Paulo (USP) Academic Seminar.
-- 2018: 7th Workshop in Economic Development, 2018 MIPP Workshop in Macroeconomics, 9th Bolivian Conference on Development Economics, Universidad Diego Portales Academic Seminar, LACEA-LAMESAnnual Meeting, 30th EALE Conference,Annual Meeting of the Chilean Society of Economists (SECHI), FEN Universidad de Chile Academic Seminar, The Economics of Informality Conference.
+- 2018: 7th Workshop in Economic Development, 2018 MIPP Workshop in Macroeconomics, 9th Bolivian Conference on Development Economics, Universidad Diego Portales Academic Seminar, LACEA-LAMES Annual Meeting, 30th EALE Conference,Annual Meeting of the Chilean Society of Economists (SECHI), FEN Universidad de Chile Academic Seminar, The Economics of Informality Conference.
 - 2017: 8th Bolivian Conference on Development Economics, FEN Universidad de Chile Academic Seminar, Pontificia Universidad Católica de Chile Academic Seminar, Central Bank of Chile Macroeconomics and Finance Seminar.
 - 2016: LACEA-LAMES Annual Meeting, Annual Meeting of the Chilean Society of Economists (SECHI), 7th Bolivian Conference on Development Economics, Universidad Católica Boliviana Academic Seminar, Universidad Mayor de San Andrés Academic Seminar.
 - 2015: LACEA Annual Meeting,Annual Meeting of the Chilean Society of Economists (SECHI), SMAUG Workshop on Search and Matching.
