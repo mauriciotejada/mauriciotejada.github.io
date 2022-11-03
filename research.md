@@ -33,7 +33,7 @@ title: Research
 
 - Working and Saving Informally (with Luca Flabbi) 
 
-    [[Draft](/assets/pdf/Flabbi_Tejada_wsi_2022.pdf)]
+    [[Draft](/assets/pdf/Flabbi_Tejada_wsi_2022.pdf)] [[Slides LACEA](/assets/pdf/main_short.pdf)]
 
 #### Work in Progress
 
