@@ -18,7 +18,7 @@ Download my full CV in PDF [here](/assets/pdf/mtejadaCV.pdf).
 
 #### Seminar and Conferences
 
-- 2022: Annual Meeting of the Chilean Society of Economists (SECHI), Universidad Diego Portales Academic Seminar, Universidad Alberto Hurtado - Universidad Andrés Bello Academic Seminar.
+- 2022: LACEA-LAMES Annual Meeting, The Economics of Informality Conference, Pontificia Universidad Javeriana de Colombia Academic Seminar, Annual Meeting of the Chilean Society of Economists (SECHI), Universidad Diego Portales Academic Seminar, Universidad Alberto Hurtado - Universidad Andrés Bello Academic Seminar.
 - 2021: Pontiﬁcia Universidad Javeriana de Colombia Academic Seminar.
 - 2020: Universidad Diego Portales Academic Seminar.
 - 2019: Pontiﬁcia Universidad Católica de Chile Academic Seminar. University of Sao Paulo (USP) Academic Seminar.
