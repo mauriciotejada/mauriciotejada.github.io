@@ -3,7 +3,7 @@ title: "Algunas reflexiones respecto de la recuperación del mercado laboral en 
 author: "Mauricio Tejada"
 date: "10/4/2020"
 categories:
-    - OE
+    - OE-UAH
     - Coyuntura Laboral
 ---
 

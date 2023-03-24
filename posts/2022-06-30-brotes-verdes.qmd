@@ -3,7 +3,7 @@ title: "¿Brotes verdes de normalización del mercado laboral?"
 author: "Mauricio Tejada"
 date: "6/20/2022"
 categories:
-    - OE
+    - OE-UAH
     - Coyuntura Laboral
 ---
 

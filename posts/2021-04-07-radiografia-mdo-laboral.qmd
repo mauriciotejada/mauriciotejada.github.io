@@ -3,7 +3,7 @@ title: "Mercado laboral en pandemia: Una radiografía del año 2020"
 author: "Mauricio Tejada"
 date: "4/7/2021"
 categories:
-    - OE
+    - OE-UAH
     - Coyuntura Laboral
     - Pandemia COVID19
 ---

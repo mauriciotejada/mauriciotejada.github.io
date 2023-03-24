@@ -3,7 +3,7 @@ title: "Sobre vulnerabilidad y teletrabajo durante la pandemia"
 author: "Marcela Perticará y Mauricio Tejada"
 date: "5/16/2020"
 categories:
-    - OE
+    - OE-UAH
     - Coyuntura Laboral
     - Pandemia COVID19
 ---

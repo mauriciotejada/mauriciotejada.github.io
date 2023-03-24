@@ -3,7 +3,7 @@ title: "Trabajo informal y el sistema de pensiones en Chile"
 author: "Marcela Perticará y Mauricio Tejada"
 date: "8/27/2019"
 categories:
-    - OE
+    - OE-UAH
     - Coyuntura Laboral
 ---
 

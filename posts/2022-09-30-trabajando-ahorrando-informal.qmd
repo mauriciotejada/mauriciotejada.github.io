@@ -1,0 +1,48 @@
+---
+title: "Trabajando y ahorrando de forma informal"
+author: "Mauricio Tejada"
+date: "9/30/2022"
+categories:
+    - OE-UAH
+    - Informalidad Laboral
+---
+
+*Publicado en la Revista Observatorio Económico de la Facultad de Economía y Negocios de la Universidad Alberto Hurtado*
+
+Las economías en desarrollo, particularmente América Latina y el Caribe (ALC), se caracterizan por altas tasas de informalidad laboral y por bajas tasas de ahorro[^1]. Cada uno de estos representa un problema en sí mismo. En efecto, mientras la informalidad introduce cierto grado de flexibilidad en mercados laborales con excesiva regulación, también reduce el acceso de los trabajadores a las redes de protección social y aumenta los riesgos en el trabajo. Adicionalmente, la informalidad puede también distorsionar los incentivos a la inversión, tanto en capital físico por parte
+de las empresas, como en capital humano por parte de los trabajadores, lo que en última instancia redunda en una menor productividad en la economía en su conjunto. Por su parte, tasas de ahorro bajas hacen a los individuos más vulnerables a variaciones en
+sus ingresos y generan por tanto economías menos resilientes a shocks. Adicionalmente,
+las bajas tasas de ahorro en economía de ingresos bajo y medio no solo se explican por
+la existencia de individuos que simplemente son muy pobres para ahorrar, sino que también el acceso limitado a servicios financieros juega un rol fundamental.
+
+La informalidad laboral y la exclusión del sistema financiero formal, además de ser
+aspectos problemáticos en las economías en desarrollo, están también estrechamente relacionadas. Altos niveles de informalidad aumentan las necesidades de ahorro
+precautorio, esto debido al mayor riesgo laboral que enfrentan los trabajadores. Pero
+el estatus de informalidad también puede impedir que los trabajadores accedan a
+herramientas para un ahorro efectivo. Más aún, la exclusión financiera puede inducir a
+los trabajadores a aceptar trabajos informales con mayor frecuencia porque les impide ahorrar lo suficiente para financiar una búsqueda efectiva en el mercado laboral.
+Este vínculo introduce un círculo vicioso que hace extremadamente difícil para la política económica abordar un problema sin considerar al otro. 
+
+En un estudio reciente, mi colega y yo estudiamos la importancia de ambos fenómenos en conjunto para el caso de Colombia, y tratamos de cuantificar el grado de exclusión financiera de los trabajadores informales[^2]. Colombia es la cuarta economía de ALC y es un país donde todos estos fenómenos -alta informalidad, bajo ahorro y exclusión financiera-, parecen ser particularmente severos. En efecto, en una muestra de hombres no calificados, la informalidad es un fenómeno muy importante: más del 50% de ellos trabajan informalmente (de forma asalariada o como cuentapropista). Algo menos del 40% está contratado formalmente y el 7,7% está desempleado. Adicionalmente, los trabajadores ganan 35% más, en promedio, si son contratados formalmente. Por otro lado, los trabajadores formales ahorran un poco más que los trabajadores informales: el 27% de ellos tienen un ahorro positivo y
+
+los que ahorran lo hacen, en promedio, por 60 dólares mensuales. Estos valores son
+más bajos para los trabajadores informales (21% y 50 dólares, respectivamente).
+No obstante, donde la diferencia es más llamativa es en el acceso a las instituciones
+financieras formales: casi el 50% de los trabajadores formales colocan la mayor parte
+de sus ahorros en instituciones financieras formales, mientras que solo el 18% de los
+trabajadores informales lo hacen. Más aún, los individuos desempleados ahorran significativamente menos que los trabajadores informales, pero cuando lo hacen, colocan
+sus ahorros en instituciones financieras formales en proporciones más altas que los
+trabajadores informales.
+
+Del análisis también se desprende que los trabajadores informales enfrentan costos
+económicos significativamente más altos de mantener una cartera de inversión en
+activos del mercado financiero formal (10 veces más), lo que da señales importantes
+de falta de inclusión financiera. Además, en el escenario en que todos los trabajadores
+enfrentaran el mismo costo de mantener la cartera de inversión en activos formales, se
+observaría un aumento significativo en la tasa de ahorro general (más de 3%), un mayor stock de riqueza (3,5%), y un 20% más en la participación de los activos formales
+en la cartera de inversión de los individuos. Además, encontramos también que la inclusión financiera disminuye sustantivamente la desigualdad en el consumo y en la riqueza. Para lograr estos mismos resultados solo usando políticas del mercado laboral que reduzcan la informalidad, como mayor control y/o menores impuestos a la nómina, se
+requeriría reducir la tasa de informalidad en más del 30%.
+
+[^1]: En ALC el sector informa emplea entre el 30 y el 80% de la fuerza laboral y más del 40% del PIB mundial es producido por el sector informal de ALC. La región ahorra niveles equivalentes al 17% del PIB, monto bajo comparado con otras economías de ingreso medio (30% del PIB). Más aún, las tasas de ahorro bajas han persistido a pesar de los esfuerzos de política que han apuntado a incrementarlas y las relativamente buenas condiciones macroeconómicas de la última década.
+
+[^2]: Revise el artículo completo [aquí](https://mauriciotejada.com/pdf/Flabbi_Tejada_wsi_2022.pdf). 

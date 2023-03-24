@@ -3,7 +3,7 @@ title: "Mercado laboral, inequidades y pandemia"
 author: "Marcela Perticará y Mauricio Tejada"
 date: "7/1/2020"
 categories:
-    - OE
+    - OE-UAH
     - Coyuntura Laboral
     - Pandemia COVID19
 ---

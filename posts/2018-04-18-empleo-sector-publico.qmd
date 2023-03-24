@@ -3,7 +3,7 @@ title: "Hacia una gestión eficiente en el sector público"
 author: "Lucas Navarro y Mauricio Tejada"
 date: "4/18/2018"
 categories:
-    - OE
+    - OE-UAH
     - Coyuntura Laboral
 ---
 

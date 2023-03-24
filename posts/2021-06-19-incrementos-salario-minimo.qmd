@@ -3,7 +3,7 @@ title: "¿Es conveniente subir el salario mínimo en el contexto actual?"
 author: "Mauricio Tejada"
 date: "6/19/2021"
 categories:
-    - OE
+    - OE-UAH
     - Coyuntura Laboral
 ---
 
