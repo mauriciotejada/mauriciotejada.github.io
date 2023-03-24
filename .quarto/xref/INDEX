@@ -1,0 +1,50 @@
+{
+  "index.qmd": {
+    "index.html": "4175bd58"
+  },
+  "about.qmd": {
+    "about.html": "b956ba1c"
+  },
+  "research.qmd": {
+    "research.html": "7b131594"
+  },
+  "cv.qmd": {
+    "cv.html": "a0329059"
+  },
+  "teaching.qmd": {
+    "teaching.html": "289eae19"
+  },
+  "blog.qmd": {
+    "blog.html": "e8b402d6"
+  },
+  "posts/test_post.qmd": {
+    "test_post.html": "91c8b474"
+  },
+  "posts/2018-04-18-empleo-sector-publico.qmd": {
+    "2018-04-18-empleo-sector-publico.html": "5886c34c"
+  },
+  "posts/2019-03-30-rompecabezas-empleo.qmd": {
+    "2019-03-30-rompecabezas-empleo.html": "68b657ff"
+  },
+  "posts/2019-08-27-informalidad-pensiones.qmd": {
+    "2019-08-27-informalidad-pensiones.html": "d2c9c7f8"
+  },
+  "posts/2020-05-16-vulnerabilidad-teletrabajo-pandemia.qmd": {
+    "2020-05-16-vulnerabilidad-teletrabajo-pandemia.html": "14b0f647"
+  },
+  "posts/2020-07-01-inequidad-pandemia.qmd": {
+    "2020-07-01-inequidad-pandemia.html": "a4065a48"
+  },
+  "posts/2020-10-4-recuperacion-post-pandemia.qmd": {
+    "2020-10-4-recuperacion-post-pandemia.html": "2e962811"
+  },
+  "posts/2021-04-07-radiografia-mdo-laboral.qmd": {
+    "2021-04-07-radiografia-mdo-laboral.html": "c3afcb96"
+  },
+  "posts/2021-06-19-incrementos-salario-minimo.qmd": {
+    "2021-06-19-incrementos-salario-minimo.html": "426bf7ff"
+  },
+  "posts/2022-06-30-brotes-verdes.qmd": {
+    "2022-06-30-brotes-verdes.html": "2995ea81"
+  }
+}
