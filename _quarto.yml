@@ -13,6 +13,9 @@ website:
       - teaching.qmd
       - blog.qmd
 
+resources:
+  - CNAME
+
 format:
   html:
     theme: cosmo
