@@ -2,7 +2,7 @@
 title: "Mauricio M. Tejada"
 about:
   template: trestles
-  image: /images/photo.jpeg
+  image: /images/photo.png
   links:
     - icon: twitter
       text: Twitter
