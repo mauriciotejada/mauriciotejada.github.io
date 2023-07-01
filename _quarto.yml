@@ -16,7 +16,7 @@ website:
 resources:
   - CNAME
   - pdf/Informalidad_UCB.pdf
-  - pdf/savinf_fen.pdf
+  - pdf/SED2023.pdf
 
 format:
   html:
