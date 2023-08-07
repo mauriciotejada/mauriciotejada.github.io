@@ -4,7 +4,7 @@ title: "Teaching Slides"
 
 #### Crecimiento y Desarrollo Económico
 
-- [Temas Adeministrativos](https://mauriciotejada.com/crecimiento_y_desarrollo_slides/0_temas_administrativos/)
+- [Temas Administrativos](https://mauriciotejada.com/crecimiento_y_desarrollo_slides/0_temas_administrativos/)
 
 - [Unidad 1: Introducción](https://mauriciotejada.com/crecimiento_y_desarrollo_slides/1_hechos_estilizados/)
 
@@ -14,7 +14,7 @@ title: "Teaching Slides"
 
 #### Macroeconomía I
 
-- [Temas Adeministrativos](https://mauriciotejada.com/macroeconomics_i_slides/0_temas_administrativos/)
+- [Temas Administrativos](https://mauriciotejada.com/macroeconomics_i_slides/0_temas_administrativos/)
 
 - [Unidad 1: Los datos macroeconómicos](https://mauriciotejada.com/macroeconomics_i_slides/1_los_datos_macro/)
 
