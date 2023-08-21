@@ -8,7 +8,7 @@ title: "Teaching Slides"
 
 - [Unidad 1: Introducción](https://mauriciotejada.com/crecimiento_y_desarrollo_slides/1_hechos_estilizados/)
 
-- Unidad 2: Crecimiento Económico
+- [Unidad 2: Crecimiento Económico](https://mauriciotejada.com/crecimiento_y_desarrollo_slides/2_crecimiento_economico/)
 
 - Unidad 3: Desarrollo Económico
 
@@ -18,6 +18,6 @@ title: "Teaching Slides"
 
 - [Unidad 1: Los datos macroeconómicos](https://mauriciotejada.com/macroeconomics_i_slides/1_los_datos_macro/)
 
-- Unidad 2: Análisis de una economía cerrada.
+- [Unidad 2: Análisis de una economía cerrada](https://mauriciotejada.com/macroeconomics_i_slides/2_eco_cerrada/)
 
 - Unidad 3: La Economía Abierta.
