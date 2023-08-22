@@ -6,7 +6,7 @@ title: "Research"
 
 - Are Informal Self-Employment and Informal Employment as Employee Behaviorally Distinct Labor Force States? (with Luca Flabbi). **Economics Letters**, 231, October 2023, 111278.
 
-    [[DOI](https://doi.org/10.1016/j.econlet.2023.111278)][[Final Manuscript](/pdf/Flabbi_Tejada_ECONLET_2023.pdf)][[IZA Working Paper with Appendix](https://docs.iza.org/dp16225.pdf)] 
+    [[DOI](https://doi.org/10.1016/j.econlet.2023.111278)][[Final Manuscript](/pdf/Flabbi_Tejada_ECONLET_2023.pdf)][[IZA Working Paper with Appendix](https://docs.iza.org/dp16225.pdf)][[Replication Files](https://github.com/mauriciotejada/informal_employees_vs_self_employed)] 
     
 - "Does Public Sector Employment Buffer the Minimum Wage Effects?" (with Lucas Navarro). **Review of Economic Dynamics**, Vol. 43, January 2022, pp. 168–196. 
 
