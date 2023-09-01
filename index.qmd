@@ -14,7 +14,7 @@ about:
 
 #### Short Bio
 
-I studied Economics at the Catholic University of Bolivia and earned my Ph.D. from Georgetown University. My research interests lie in the areas of Labor Economics, Structural Econometrics, and Macroeconomics, with a focus on computational aspects. Currently, I am an Assistant Professor in the Department of Economics at Universidad Diego Portales and lead researcher at ANID's Millenium Nucleus for Labor Market Mismatch: Causes and Consequences. Previously, I worked at Universidad Alberto Hurtado. Additionally, I have instructed courses in macroeconomics and econometrics at Georgetown University, the University of Chile, and the Private University of Bolivia.
+I studied Economics at the Catholic University of Bolivia and earned my Ph.D. from Georgetown University. My research interests lie in the areas of Labor Economics, Structural Econometrics, and Macroeconomics, with a focus on computational aspects. Currently, I am an Associate Professor in the Department of Economics at Universidad Diego Portales and lead researcher at ANID's Millenium Nucleus for Labor Market Mismatch: Causes and Consequences. Previously, I worked at Universidad Alberto Hurtado. Additionally, I have instructed courses in macroeconomics and econometrics at Georgetown University, the University of Chile, and the Private University of Bolivia.
 
 ---
 
