@@ -15,8 +15,8 @@ website:
 
 resources:
   - CNAME
-  - pdf/SED2023.pdf
   - pdf/mtejada_sechi2023.pdf
+  - pdf/Presentacion_ITAM.pdf
 
 format:
   html:
