@@ -20,4 +20,4 @@ title: "Teaching Slides"
 
 - [Unidad 2: Análisis de una economía cerrada](https://mauriciotejada.com/macroeconomics_i_slides/2_eco_cerrada/)
 
-- Unidad 3: La Economía Abierta.
+- [Unidad 3: La Economía Abierta](https://mauriciotejada.com/macroeconomics_i_slides/3_eco_abierta/)
