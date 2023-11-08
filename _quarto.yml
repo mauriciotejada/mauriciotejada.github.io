@@ -15,8 +15,7 @@ website:
 
 resources:
   - CNAME
-  - pdf/mtejada_sechi2023.pdf
-  - pdf/Presentacion_ITAM.pdf
+  - pdf/Tejada_BCDE2023.pdf
 
 format:
   html:
