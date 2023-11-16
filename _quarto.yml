@@ -16,6 +16,7 @@ website:
 resources:
   - CNAME
   - pdf/Tejada_BCDE2023.pdf
+  - pdf/LACEA2023.pdf
 
 format:
   html:
