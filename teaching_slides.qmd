@@ -2,15 +2,6 @@
 title: "Teaching Slides"
 ---
 
-#### Crecimiento y Desarrollo Económico
-
-- [Temas Administrativos](https://mauriciotejada.com/crecimiento_y_desarrollo_slides/0_temas_administrativos/)
-
-- [Unidad 1: Introducción](https://mauriciotejada.com/crecimiento_y_desarrollo_slides/1_hechos_estilizados/)
-
-- [Unidad 2: Crecimiento Económico](https://mauriciotejada.com/crecimiento_y_desarrollo_slides/2_crecimiento_economico/)
-
-- [Unidad 3: Desarrollo Económico](https://mauriciotejada.com/crecimiento_y_desarrollo_slides/3_desarrollo_economico/)
 
 #### Macroeconomía I
 
@@ -21,3 +12,30 @@ title: "Teaching Slides"
 - [Unidad 2: Análisis de una economía cerrada](https://mauriciotejada.com/macroeconomics_i_slides/2_eco_cerrada/)
 
 - [Unidad 3: La Economía Abierta](https://mauriciotejada.com/macroeconomics_i_slides/3_eco_abierta/)
+
+#### Econometría II
+
+- [Temas Administrativos](https://mauriciotejada.com/econometrics_ii_slides/0_temas_administrativos/)
+
+- [Unidad 1: Repaso del Modelo de Regresión Lineal](https://mauriciotejada.com/econometrics_ii_slides/1_repaso_regresion_lineal/)
+
+- [Unidad 2: Variables Instrumentales](https://mauriciotejada.com/econometrics_ii_slides/2_variables_instrumentales/)
+
+- [Unidad 3: Modelos para Datos de Panel](https://mauriciotejada.com/econometrics_ii_slides/3_datos_de_panel/)
+
+- [Unidad 4: Modelos de Series Temporales](https://mauriciotejada.com/econometrics_ii_slides/4_series_temporales/)
+
+- [Unidad 5: Modelos de Elección Discreta](https://mauriciotejada.com/econometrics_ii_slides/5_eleccion_discreta/)
+
+- [Unidad 6: Otros Métodos de Estimación](https://mauriciotejada.com/econometrics_ii_slides/6_otros_metodos/)
+
+#### Crecimiento y Desarrollo Económico
+
+- [Temas Administrativos](https://mauriciotejada.com/crecimiento_y_desarrollo_slides/0_temas_administrativos/)
+
+- [Unidad 1: Introducción](https://mauriciotejada.com/crecimiento_y_desarrollo_slides/1_hechos_estilizados/)
+
+- [Unidad 2: Crecimiento Económico](https://mauriciotejada.com/crecimiento_y_desarrollo_slides/2_crecimiento_economico/)
+
+- [Unidad 3: Desarrollo Económico](https://mauriciotejada.com/crecimiento_y_desarrollo_slides/3_desarrollo_economico/)
+
