@@ -21,13 +21,13 @@ title: "Teaching Slides"
 
 - [Unidad 2: Variables Instrumentales](https://mauriciotejada.com/econometrics_ii_slides/2_variables_instrumentales/)
 
-- [Unidad 3: Modelos para Datos de Panel](https://mauriciotejada.com/econometrics_ii_slides/3_datos_de_panel/)
+- [Unidad 3: Modelos para Datos de Panel](https://mauriciotejada.com/econometrics_ii_slides/3_panel_de_datos/)
 
-- [Unidad 4: Modelos de Series Temporales](https://mauriciotejada.com/econometrics_ii_slides/4_series_temporales/)
+- [Unidad 4: Modelos de Series Temporales](https://mauriciotejada.com/econometrics_ii_slides/4_series_de_tiempo/)
 
-- [Unidad 5: Modelos de Elección Discreta](https://mauriciotejada.com/econometrics_ii_slides/5_eleccion_discreta/)
+- [Unidad 5: Modelos de Elección Discreta](https://mauriciotejada.com/econometrics_ii_slides/5_variable_dependiente_cualitativa/)
 
-- [Unidad 6: Otros Métodos de Estimación](https://mauriciotejada.com/econometrics_ii_slides/6_otros_metodos/)
+- [Unidad 6: Otros Métodos de Estimación](https://mauriciotejada.com/econometrics_ii_slides/6_otros_metodos_de_estimacion/)
 
 #### Crecimiento y Desarrollo Económico
 
