@@ -29,8 +29,6 @@ title: "Teaching Slides"
 
 - [Unidad 5: Modelos de Elección Discreta](https://mauriciotejada.com/econometrics_ii_slides/5_variable_dependiente_cualitativa/)
 
-- [Unidad 6: Otros Métodos de Estimación](https://mauriciotejada.com/econometrics_ii_slides/6_otros_metodos_de_estimacion/)
-
 #### Crecimiento y Desarrollo Económico
 
 - [Temas Administrativos](https://mauriciotejada.com/crecimiento_y_desarrollo_slides/0_temas_administrativos/)
