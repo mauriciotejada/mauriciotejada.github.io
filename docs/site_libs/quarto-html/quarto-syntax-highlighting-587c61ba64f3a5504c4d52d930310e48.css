@@ -53,56 +53,6 @@ div.sourceCode pre.sourceCode {
 /* Normal */
 code span {
   color: #003B4F;
-<<<<<<< HEAD:docs/site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css
-=======
-  font-style: inherit;
-}
-
-code span.at {
-  color: #657422;
-  font-style: inherit;
-}
-
-code span.ss {
-  color: #20794D;
-  font-style: inherit;
-}
-
-code span.an {
-  color: #5E5E5E;
-  font-style: inherit;
-}
-
-code span.fu {
-  color: #4758AB;
-  font-style: inherit;
-}
-
-code span.st {
-  color: #20794D;
-  font-style: inherit;
-}
-
-code span.cf {
-  color: #003B4F;
-  font-weight: bold;
-  font-style: inherit;
-}
-
-code span.op {
-  color: #5E5E5E;
-  font-style: inherit;
-}
-
-code span.er {
-  color: #AD0000;
-  font-style: inherit;
-}
-
-code span.bn {
-  color: #AD0000;
-  font-style: inherit;
->>>>>>> cdd75196b356f3635445dbb4bc83a4ef11ac6d25:docs/site_libs/quarto-html/quarto-syntax-highlighting.css
 }
 
 /* Alert */
