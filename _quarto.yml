@@ -15,10 +15,11 @@ website:
 
 resources:
   - CNAME
-  - pdf/Tejada_BCDE2023.pdf
-  - pdf/LACEA2023.pdf
-  - pdf/JornadaFAE_MTEJADA.pdf
-
+  - pdf/draft_tejada_commuting.pdf
+  - pdf/draft_tejada_hours.pdf
+  - pdf/draft_tejada_savings.pdf
+  - pdf/draft_tejada_minimum_wage.pdf
+ 
 format:
   html:
     theme: cosmo
