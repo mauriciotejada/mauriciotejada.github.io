@@ -17,7 +17,9 @@ title: "Teaching Slides"
 
 - [Temas Administrativos](https://mauriciotejada.com/econometrics_ii_slides/0_temas_administrativos/)
 
-- [Unidad 1: Repaso del Modelo de Regresión Lineal](https://mauriciotejada.com/econometrics_ii_slides/1_repaso_regresion_lineal/)
+- [Unidad 1: Muestras Grandes, Propiedades y Estimación](https://mauriciotejada.com/econometrics_ii_slides/1_muestras_grandes/)
+
+- [Unidad 1b: Repaso del Modelo de Regresión Lineal](https://mauriciotejada.com/econometrics_ii_slides/1b_repaso_regresion_lineal/)
 
 - [Unidad 2: Variables Instrumentales](https://mauriciotejada.com/econometrics_ii_slides/2_variables_instrumentales/)
 
@@ -26,8 +28,6 @@ title: "Teaching Slides"
 - [Unidad 4: Modelos de Series Temporales](https://mauriciotejada.com/econometrics_ii_slides/4_series_de_tiempo/)
 
 - [Unidad 5: Modelos de Elección Discreta](https://mauriciotejada.com/econometrics_ii_slides/5_variable_dependiente_cualitativa/)
-
-- [Unidad 6: Otros Métodos de Estimación](https://mauriciotejada.com/econometrics_ii_slides/6_otros_metodos_de_estimacion/)
 
 #### Crecimiento y Desarrollo Económico
 
