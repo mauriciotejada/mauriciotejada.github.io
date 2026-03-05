@@ -8,6 +8,7 @@ title: "Teaching"
 
 - Econometrics II
 - Macroeconomics I
+- Economic Growth
 
 #### Previous courses at Universidad Alberto Hurtado
 

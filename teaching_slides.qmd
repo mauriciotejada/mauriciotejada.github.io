@@ -8,11 +8,11 @@ title: "Teaching Slides"
 
 - [Unidad 1: Muestras Grandes, Variables Instrumentales y Otros Métodos](https://mauriciotejada.github.io/slides_ecmt2/1_muestras_grandes/)
 
-- [Unidad 2: Modelos para Datos de Panel](https://mauriciotejada.github.io/slides_ecmt2/3_panel_de_datos/)
+- [Unidad 2: Modelos para Datos de Panel](https://mauriciotejada.github.io/slides_ecmt2/2_panel_de_datos/)
 
-- [Unidad 3: Modelos de Series Temporales](https://mauriciotejada.github.io/slides_ecmt2/4_series_de_tiempo/)
+- [Unidad 3: Modelos de Series Temporales](https://mauriciotejada.github.io/slides_ecmt2/3_series_de_tiempo/)
 
-- [Unidad 4: Modelos de Elección Discreta](https://mauriciotejada.github.io/slides_ecmt2/5_variable_dependiente_cualitativa/)
+- [Unidad 4: Modelos de Elección Discreta](https://mauriciotejada.github.io/slides_ecmt2/4_variable_dependiente_cualitativa/)
 
 #### Crecimiento y Desarrollo Económico
 
