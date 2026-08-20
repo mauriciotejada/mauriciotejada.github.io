@@ -19,6 +19,7 @@ resources:
   - pdf/draft_tejada_hours.pdf
   - pdf/draft_tejada_savings.pdf
   - pdf/draft_tejada_minimum_wage.pdf
+  - pdf/PT_HWC.pdf
  
 format:
   html:
