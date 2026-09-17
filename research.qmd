@@ -36,7 +36,7 @@ title: "Research"
 
 - The Role of Self-Employment in Developing Economies: Lifetime Evidence from a Structural Search Model (with Gustavo Canavire-Bacarreza)
   
-    [[Draft](/pdf/Canavire-Bacarreza_Tejada_SE_2026.pdf)][[Replication Files](https://github.com/mauriciotejada/self_employment_lifetime.git)]
+    [[IZA Discussion Paper](https://www.iza.org/publications/dp/18882/the-role-of-self-employment-in-developing-economies-lifetime-evidence-from-a-structural-search-model)][[Replication Files](https://github.com/mauriciotejada/self_employment_lifetime.git)]
 
 - Working and Saving Informally: The Link between Labor Market Informality and Financial Exclusion (with Luca Flabbi).
 
